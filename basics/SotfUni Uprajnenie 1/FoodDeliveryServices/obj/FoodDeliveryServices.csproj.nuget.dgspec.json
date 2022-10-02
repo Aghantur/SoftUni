@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\SotfUni Uprajnenie 1\\FoodDeliveryServices\\FoodDeliveryServices.csproj": {}
+    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\SotfUni Uprajnenie 1\\FoodDeliveryServices\\FoodDeliveryServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\SotfUni Uprajnenie 1\\FoodDeliveryServices\\FoodDeliveryServices.csproj": {
+    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\SotfUni Uprajnenie 1\\FoodDeliveryServices\\FoodDeliveryServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\SotfUni Uprajnenie 1\\FoodDeliveryServices\\FoodDeliveryServices.csproj",
+        "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\SotfUni Uprajnenie 1\\FoodDeliveryServices\\FoodDeliveryServices.csproj",
         "projectName": "FoodDeliveryServices",
-        "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\SotfUni Uprajnenie 1\\FoodDeliveryServices\\FoodDeliveryServices.csproj",
+        "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\SotfUni Uprajnenie 1\\FoodDeliveryServices\\FoodDeliveryServices.csproj",
         "packagesPath": "C:\\Users\\vikto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\SotfUni Uprajnenie 1\\FoodDeliveryServices\\obj\\",
+        "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\SotfUni Uprajnenie 1\\FoodDeliveryServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vikto\\AppData\\Roaming\\NuGet\\NuGet.Config",

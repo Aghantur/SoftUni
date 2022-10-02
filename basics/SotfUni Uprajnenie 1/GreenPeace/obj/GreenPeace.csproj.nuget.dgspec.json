@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\SotfUni Uprajnenie 1\\GreenPeace\\GreenPeace.csproj": {}
+    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\SotfUni Uprajnenie 1\\GreenPeace\\GreenPeace.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\SotfUni Uprajnenie 1\\GreenPeace\\GreenPeace.csproj": {
+    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\SotfUni Uprajnenie 1\\GreenPeace\\GreenPeace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\SotfUni Uprajnenie 1\\GreenPeace\\GreenPeace.csproj",
+        "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\SotfUni Uprajnenie 1\\GreenPeace\\GreenPeace.csproj",
         "projectName": "GreenPeace",
-        "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\SotfUni Uprajnenie 1\\GreenPeace\\GreenPeace.csproj",
+        "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\SotfUni Uprajnenie 1\\GreenPeace\\GreenPeace.csproj",
         "packagesPath": "C:\\Users\\vikto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\SotfUni Uprajnenie 1\\GreenPeace\\obj\\",
+        "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\SotfUni Uprajnenie 1\\GreenPeace\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vikto\\AppData\\Roaming\\NuGet\\NuGet.Config",

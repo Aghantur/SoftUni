@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\SotfUni Uprajnenie 1\\Architects\\Architects.csproj",
+      "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\SotfUni Uprajnenie 1\\Architects\\Architects.csproj",
       "projectName": "Architects",
-      "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\SotfUni Uprajnenie 1\\Architects\\Architects.csproj",
+      "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\SotfUni Uprajnenie 1\\Architects\\Architects.csproj",
       "packagesPath": "C:\\Users\\vikto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\SotfUni Uprajnenie 1\\Architects\\obj\\",
+      "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\SotfUni Uprajnenie 1\\Architects\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vikto\\AppData\\Roaming\\NuGet\\NuGet.Config",

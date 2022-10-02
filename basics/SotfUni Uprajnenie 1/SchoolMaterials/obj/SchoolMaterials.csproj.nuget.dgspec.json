@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\SotfUni Uprajnenie 1\\SchoolMaterials\\SchoolMaterials.csproj": {}
+    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\SotfUni Uprajnenie 1\\SchoolMaterials\\SchoolMaterials.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\SotfUni Uprajnenie 1\\SchoolMaterials\\SchoolMaterials.csproj": {
+    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\SotfUni Uprajnenie 1\\SchoolMaterials\\SchoolMaterials.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\SotfUni Uprajnenie 1\\SchoolMaterials\\SchoolMaterials.csproj",
+        "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\SotfUni Uprajnenie 1\\SchoolMaterials\\SchoolMaterials.csproj",
         "projectName": "SchoolMaterials",
-        "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\SotfUni Uprajnenie 1\\SchoolMaterials\\SchoolMaterials.csproj",
+        "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\SotfUni Uprajnenie 1\\SchoolMaterials\\SchoolMaterials.csproj",
         "packagesPath": "C:\\Users\\vikto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\SotfUni Uprajnenie 1\\SchoolMaterials\\obj\\",
+        "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\SotfUni Uprajnenie 1\\SchoolMaterials\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vikto\\AppData\\Roaming\\NuGet\\NuGet.Config",
