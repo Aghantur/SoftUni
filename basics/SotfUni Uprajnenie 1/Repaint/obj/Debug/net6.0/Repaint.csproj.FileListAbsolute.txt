@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Repaint\bin\Debug\net6.0\Repaint.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Repaint\bin\Debug\net6.0\Repaint.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Repaint\bin\Debug\net6.0\Repaint.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Repaint\bin\Debug\net6.0\Repaint.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Repaint\bin\Debug\net6.0\Repaint.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Repaint\obj\Debug\net6.0\Repaint.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Repaint\obj\Debug\net6.0\Repaint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Repaint\obj\Debug\net6.0\Repaint.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Repaint\obj\Debug\net6.0\Repaint.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Repaint\obj\Debug\net6.0\Repaint.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Repaint\obj\Debug\net6.0\Repaint.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Repaint\obj\Debug\net6.0\refint\Repaint.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Repaint\obj\Debug\net6.0\Repaint.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Repaint\obj\Debug\net6.0\Repaint.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Repaint\obj\Debug\net6.0\ref\Repaint.dll

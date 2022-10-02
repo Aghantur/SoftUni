@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\FoodDeliveryServices\bin\Debug\net6.0\FoodDeliveryServices.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\FoodDeliveryServices\bin\Debug\net6.0\FoodDeliveryServices.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\FoodDeliveryServices\bin\Debug\net6.0\FoodDeliveryServices.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\FoodDeliveryServices\bin\Debug\net6.0\FoodDeliveryServices.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\FoodDeliveryServices\bin\Debug\net6.0\FoodDeliveryServices.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\FoodDeliveryServices\obj\Debug\net6.0\FoodDeliveryServices.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\FoodDeliveryServices\obj\Debug\net6.0\FoodDeliveryServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\FoodDeliveryServices\obj\Debug\net6.0\FoodDeliveryServices.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\FoodDeliveryServices\obj\Debug\net6.0\FoodDeliveryServices.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\FoodDeliveryServices\obj\Debug\net6.0\FoodDeliveryServices.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\FoodDeliveryServices\obj\Debug\net6.0\FoodDeliveryServices.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\FoodDeliveryServices\obj\Debug\net6.0\refint\FoodDeliveryServices.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\FoodDeliveryServices\obj\Debug\net6.0\FoodDeliveryServices.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\FoodDeliveryServices\obj\Debug\net6.0\FoodDeliveryServices.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\FoodDeliveryServices\obj\Debug\net6.0\ref\FoodDeliveryServices.dll

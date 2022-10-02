@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\GreenPeace\bin\Debug\net6.0\GreenPeace.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\GreenPeace\bin\Debug\net6.0\GreenPeace.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\GreenPeace\bin\Debug\net6.0\GreenPeace.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\GreenPeace\bin\Debug\net6.0\GreenPeace.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\GreenPeace\bin\Debug\net6.0\GreenPeace.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\GreenPeace\obj\Debug\net6.0\GreenPeace.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\GreenPeace\obj\Debug\net6.0\GreenPeace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\GreenPeace\obj\Debug\net6.0\GreenPeace.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\GreenPeace\obj\Debug\net6.0\GreenPeace.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\GreenPeace\obj\Debug\net6.0\GreenPeace.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\GreenPeace\obj\Debug\net6.0\GreenPeace.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\GreenPeace\obj\Debug\net6.0\refint\GreenPeace.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\GreenPeace\obj\Debug\net6.0\GreenPeace.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\GreenPeace\obj\Debug\net6.0\GreenPeace.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\GreenPeace\obj\Debug\net6.0\ref\GreenPeace.dll

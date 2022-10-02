@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\SchoolMaterials\bin\Debug\net6.0\SchoolMaterials.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\SchoolMaterials\bin\Debug\net6.0\SchoolMaterials.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\SchoolMaterials\bin\Debug\net6.0\SchoolMaterials.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\SchoolMaterials\bin\Debug\net6.0\SchoolMaterials.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\SchoolMaterials\bin\Debug\net6.0\SchoolMaterials.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\SchoolMaterials\obj\Debug\net6.0\SchoolMaterials.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\SchoolMaterials\obj\Debug\net6.0\SchoolMaterials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\SchoolMaterials\obj\Debug\net6.0\SchoolMaterials.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\SchoolMaterials\obj\Debug\net6.0\SchoolMaterials.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\SchoolMaterials\obj\Debug\net6.0\SchoolMaterials.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\SchoolMaterials\obj\Debug\net6.0\SchoolMaterials.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\SchoolMaterials\obj\Debug\net6.0\refint\SchoolMaterials.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\SchoolMaterials\obj\Debug\net6.0\SchoolMaterials.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\SchoolMaterials\obj\Debug\net6.0\SchoolMaterials.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\SchoolMaterials\obj\Debug\net6.0\ref\SchoolMaterials.dll

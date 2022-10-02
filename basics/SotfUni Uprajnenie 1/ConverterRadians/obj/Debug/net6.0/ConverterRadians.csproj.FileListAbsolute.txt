@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\ConverterRadians\bin\Debug\net6.0\ConverterRadians.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\ConverterRadians\bin\Debug\net6.0\ConverterRadians.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\ConverterRadians\bin\Debug\net6.0\ConverterRadians.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\ConverterRadians\bin\Debug\net6.0\ConverterRadians.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\ConverterRadians\bin\Debug\net6.0\ConverterRadians.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\ConverterRadians\obj\Debug\net6.0\ConverterRadians.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\ConverterRadians\obj\Debug\net6.0\ConverterRadians.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\ConverterRadians\obj\Debug\net6.0\ConverterRadians.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\ConverterRadians\obj\Debug\net6.0\ConverterRadians.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\ConverterRadians\obj\Debug\net6.0\ConverterRadians.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\ConverterRadians\obj\Debug\net6.0\ConverterRadians.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\ConverterRadians\obj\Debug\net6.0\refint\ConverterRadians.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\ConverterRadians\obj\Debug\net6.0\ConverterRadians.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\ConverterRadians\obj\Debug\net6.0\ConverterRadians.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\ConverterRadians\obj\Debug\net6.0\ref\ConverterRadians.dll

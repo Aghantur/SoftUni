@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Basketball equipment\bin\Debug\net6.0\Basketball equipment.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Basketball equipment\bin\Debug\net6.0\Basketball equipment.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Basketball equipment\bin\Debug\net6.0\Basketball equipment.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Basketball equipment\bin\Debug\net6.0\Basketball equipment.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Basketball equipment\bin\Debug\net6.0\Basketball equipment.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Basketball equipment\obj\Debug\net6.0\Basketball equipment.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Basketball equipment\obj\Debug\net6.0\Basketball equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Basketball equipment\obj\Debug\net6.0\Basketball equipment.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Basketball equipment\obj\Debug\net6.0\Basketball equipment.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Basketball equipment\obj\Debug\net6.0\Basketball equipment.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Basketball equipment\obj\Debug\net6.0\Basketball equipment.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Basketball equipment\obj\Debug\net6.0\refint\Basketball equipment.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Basketball equipment\obj\Debug\net6.0\Basketball equipment.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Basketball equipment\obj\Debug\net6.0\Basketball equipment.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\Basketball equipment\obj\Debug\net6.0\ref\Basketball equipment.dll

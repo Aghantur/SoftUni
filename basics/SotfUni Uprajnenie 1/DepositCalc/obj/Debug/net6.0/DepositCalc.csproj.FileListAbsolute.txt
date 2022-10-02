@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\DepositCalc\bin\Debug\net6.0\DepositCalc.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\DepositCalc\bin\Debug\net6.0\DepositCalc.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\DepositCalc\bin\Debug\net6.0\DepositCalc.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\DepositCalc\bin\Debug\net6.0\DepositCalc.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\DepositCalc\bin\Debug\net6.0\DepositCalc.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\DepositCalc\obj\Debug\net6.0\DepositCalc.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\DepositCalc\obj\Debug\net6.0\DepositCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\DepositCalc\obj\Debug\net6.0\DepositCalc.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\DepositCalc\obj\Debug\net6.0\DepositCalc.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\DepositCalc\obj\Debug\net6.0\DepositCalc.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\DepositCalc\obj\Debug\net6.0\DepositCalc.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\DepositCalc\obj\Debug\net6.0\refint\DepositCalc.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\DepositCalc\obj\Debug\net6.0\DepositCalc.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\DepositCalc\obj\Debug\net6.0\DepositCalc.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\SotfUni Uprajnenie 1\DepositCalc\obj\Debug\net6.0\ref\DepositCalc.dll
