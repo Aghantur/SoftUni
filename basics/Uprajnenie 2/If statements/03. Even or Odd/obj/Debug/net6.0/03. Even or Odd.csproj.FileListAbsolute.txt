@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\03. Even or Odd\bin\Debug\net6.0\03. Even or Odd.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\03. Even or Odd\bin\Debug\net6.0\03. Even or Odd.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\03. Even or Odd\bin\Debug\net6.0\03. Even or Odd.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\03. Even or Odd\bin\Debug\net6.0\03. Even or Odd.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\03. Even or Odd\bin\Debug\net6.0\03. Even or Odd.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\03. Even or Odd\obj\Debug\net6.0\03. Even or Odd.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\03. Even or Odd\obj\Debug\net6.0\03. Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\03. Even or Odd\obj\Debug\net6.0\03. Even or Odd.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\03. Even or Odd\obj\Debug\net6.0\03. Even or Odd.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\03. Even or Odd\obj\Debug\net6.0\03. Even or Odd.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\03. Even or Odd\obj\Debug\net6.0\03. Even or Odd.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\03. Even or Odd\obj\Debug\net6.0\refint\03. Even or Odd.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\03. Even or Odd\obj\Debug\net6.0\03. Even or Odd.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\03. Even or Odd\obj\Debug\net6.0\03. Even or Odd.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\03. Even or Odd\obj\Debug\net6.0\ref\03. Even or Odd.dll

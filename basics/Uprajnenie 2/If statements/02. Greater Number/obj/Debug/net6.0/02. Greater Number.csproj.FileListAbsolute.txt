@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\02. Greater Number\bin\Debug\net6.0\02. Greater Number.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\02. Greater Number\bin\Debug\net6.0\02. Greater Number.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\02. Greater Number\bin\Debug\net6.0\02. Greater Number.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\02. Greater Number\bin\Debug\net6.0\02. Greater Number.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\02. Greater Number\bin\Debug\net6.0\02. Greater Number.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\02. Greater Number\obj\Debug\net6.0\02. Greater Number.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\02. Greater Number\obj\Debug\net6.0\02. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\02. Greater Number\obj\Debug\net6.0\02. Greater Number.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\02. Greater Number\obj\Debug\net6.0\02. Greater Number.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\02. Greater Number\obj\Debug\net6.0\02. Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\02. Greater Number\obj\Debug\net6.0\02. Greater Number.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\02. Greater Number\obj\Debug\net6.0\refint\02. Greater Number.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\02. Greater Number\obj\Debug\net6.0\02. Greater Number.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\02. Greater Number\obj\Debug\net6.0\02. Greater Number.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\If statements\02. Greater Number\obj\Debug\net6.0\ref\02. Greater Number.dll
