@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Styrofoam\bin\Debug\net6.0\Styrofoam.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Styrofoam\bin\Debug\net6.0\Styrofoam.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Styrofoam\bin\Debug\net6.0\Styrofoam.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Styrofoam\bin\Debug\net6.0\Styrofoam.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Styrofoam\bin\Debug\net6.0\Styrofoam.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Styrofoam\obj\Debug\net6.0\Styrofoam.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Styrofoam\obj\Debug\net6.0\Styrofoam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Styrofoam\obj\Debug\net6.0\Styrofoam.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Styrofoam\obj\Debug\net6.0\Styrofoam.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Styrofoam\obj\Debug\net6.0\Styrofoam.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Styrofoam\obj\Debug\net6.0\Styrofoam.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Styrofoam\obj\Debug\net6.0\refint\Styrofoam.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Styrofoam\obj\Debug\net6.0\Styrofoam.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Styrofoam\obj\Debug\net6.0\Styrofoam.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Styrofoam\obj\Debug\net6.0\ref\Styrofoam.dll

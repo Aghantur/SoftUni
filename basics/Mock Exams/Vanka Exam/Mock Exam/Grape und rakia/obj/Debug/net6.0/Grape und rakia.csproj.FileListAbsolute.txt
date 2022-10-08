@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Grape und rakia\bin\Debug\net6.0\Grape und rakia.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Grape und rakia\bin\Debug\net6.0\Grape und rakia.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Grape und rakia\bin\Debug\net6.0\Grape und rakia.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Grape und rakia\bin\Debug\net6.0\Grape und rakia.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Grape und rakia\bin\Debug\net6.0\Grape und rakia.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Grape und rakia\obj\Debug\net6.0\Grape und rakia.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Grape und rakia\obj\Debug\net6.0\Grape und rakia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Grape und rakia\obj\Debug\net6.0\Grape und rakia.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Grape und rakia\obj\Debug\net6.0\Grape und rakia.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Grape und rakia\obj\Debug\net6.0\Grape und rakia.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Grape und rakia\obj\Debug\net6.0\Grape und rakia.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Grape und rakia\obj\Debug\net6.0\refint\Grape und rakia.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Grape und rakia\obj\Debug\net6.0\Grape und rakia.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Grape und rakia\obj\Debug\net6.0\Grape und rakia.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\udemy\Mock Exam\Grape und rakia\obj\Debug\net6.0\ref\Grape und rakia.dll

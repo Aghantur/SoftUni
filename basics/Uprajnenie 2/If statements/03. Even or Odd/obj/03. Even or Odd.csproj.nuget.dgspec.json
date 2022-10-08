@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\03. Even or Odd\\03. Even or Odd.csproj": {}
+    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\03. Even or Odd\\03. Even or Odd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\03. Even or Odd\\03. Even or Odd.csproj": {
+    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\03. Even or Odd\\03. Even or Odd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\03. Even or Odd\\03. Even or Odd.csproj",
+        "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\03. Even or Odd\\03. Even or Odd.csproj",
         "projectName": "03. Even or Odd",
-        "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\03. Even or Odd\\03. Even or Odd.csproj",
+        "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\03. Even or Odd\\03. Even or Odd.csproj",
         "packagesPath": "C:\\Users\\vikto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\03. Even or Odd\\obj\\",
+        "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\03. Even or Odd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vikto\\AppData\\Roaming\\NuGet\\NuGet.Config",

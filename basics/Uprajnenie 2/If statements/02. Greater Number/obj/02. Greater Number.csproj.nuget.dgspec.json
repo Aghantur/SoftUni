@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\02. Greater Number\\02. Greater Number.csproj": {}
+    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\02. Greater Number\\02. Greater Number.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\02. Greater Number\\02. Greater Number.csproj": {
+    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\02. Greater Number\\02. Greater Number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\02. Greater Number\\02. Greater Number.csproj",
+        "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\02. Greater Number\\02. Greater Number.csproj",
         "projectName": "02. Greater Number",
-        "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\02. Greater Number\\02. Greater Number.csproj",
+        "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\02. Greater Number\\02. Greater Number.csproj",
         "packagesPath": "C:\\Users\\vikto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\02. Greater Number\\obj\\",
+        "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\02. Greater Number\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vikto\\AppData\\Roaming\\NuGet\\NuGet.Config",

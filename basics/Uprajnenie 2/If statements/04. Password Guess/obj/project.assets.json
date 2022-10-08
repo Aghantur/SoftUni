@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\04. Password Guess\\04. Password Guess.csproj",
+      "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\04. Password Guess\\04. Password Guess.csproj",
       "projectName": "04. Password Guess",
-      "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\04. Password Guess\\04. Password Guess.csproj",
+      "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\04. Password Guess\\04. Password Guess.csproj",
       "packagesPath": "C:\\Users\\vikto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\04. Password Guess\\obj\\",
+      "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\04. Password Guess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vikto\\AppData\\Roaming\\NuGet\\NuGet.Config",

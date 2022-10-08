@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\01. Excellent Result\\01. Excellent Result.csproj": {}
+    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\01. Excellent Result\\01. Excellent Result.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\01. Excellent Result\\01. Excellent Result.csproj": {
+    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\01. Excellent Result\\01. Excellent Result.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\01. Excellent Result\\01. Excellent Result.csproj",
+        "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\01. Excellent Result\\01. Excellent Result.csproj",
         "projectName": "01. Excellent Result",
-        "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\01. Excellent Result\\01. Excellent Result.csproj",
+        "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\01. Excellent Result\\01. Excellent Result.csproj",
         "packagesPath": "C:\\Users\\vikto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\01. Excellent Result\\obj\\",
+        "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\01. Excellent Result\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vikto\\AppData\\Roaming\\NuGet\\NuGet.Config",

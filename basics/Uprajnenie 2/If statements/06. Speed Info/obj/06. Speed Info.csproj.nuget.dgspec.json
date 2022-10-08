@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\06. Speed Info\\06. Speed Info.csproj": {}
+    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\06. Speed Info\\06. Speed Info.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\06. Speed Info\\06. Speed Info.csproj": {
+    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\06. Speed Info\\06. Speed Info.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\06. Speed Info\\06. Speed Info.csproj",
+        "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\06. Speed Info\\06. Speed Info.csproj",
         "projectName": "06. Speed Info",
-        "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\06. Speed Info\\06. Speed Info.csproj",
+        "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\06. Speed Info\\06. Speed Info.csproj",
         "packagesPath": "C:\\Users\\vikto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\udemy\\If statements\\06. Speed Info\\obj\\",
+        "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\basics\\Uprajnenie 2\\If statements\\06. Speed Info\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vikto\\AppData\\Roaming\\NuGet\\NuGet.Config",
