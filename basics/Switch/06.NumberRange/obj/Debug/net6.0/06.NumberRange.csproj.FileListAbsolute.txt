@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\06.NumberRange\bin\Debug\net6.0\06.NumberRange.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\06.NumberRange\bin\Debug\net6.0\06.NumberRange.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\06.NumberRange\bin\Debug\net6.0\06.NumberRange.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\06.NumberRange\bin\Debug\net6.0\06.NumberRange.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\06.NumberRange\bin\Debug\net6.0\06.NumberRange.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\06.NumberRange\obj\Debug\net6.0\06.NumberRange.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\06.NumberRange\obj\Debug\net6.0\06.NumberRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\06.NumberRange\obj\Debug\net6.0\06.NumberRange.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\06.NumberRange\obj\Debug\net6.0\06.NumberRange.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\06.NumberRange\obj\Debug\net6.0\06.NumberRange.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\06.NumberRange\obj\Debug\net6.0\06.NumberRange.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\06.NumberRange\obj\Debug\net6.0\refint\06.NumberRange.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\06.NumberRange\obj\Debug\net6.0\06.NumberRange.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\06.NumberRange\obj\Debug\net6.0\06.NumberRange.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\06.NumberRange\obj\Debug\net6.0\ref\06.NumberRange.dll

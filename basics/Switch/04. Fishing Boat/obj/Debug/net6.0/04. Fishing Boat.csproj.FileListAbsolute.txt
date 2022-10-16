@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\04. Fishing Boat\bin\Debug\net6.0\04. Fishing Boat.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\04. Fishing Boat\bin\Debug\net6.0\04. Fishing Boat.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\04. Fishing Boat\bin\Debug\net6.0\04. Fishing Boat.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\04. Fishing Boat\bin\Debug\net6.0\04. Fishing Boat.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\04. Fishing Boat\bin\Debug\net6.0\04. Fishing Boat.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\04. Fishing Boat\obj\Debug\net6.0\refint\04. Fishing Boat.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\04. Fishing Boat\obj\Debug\net6.0\04. Fishing Boat.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\04. Fishing Boat\obj\Debug\net6.0\ref\04. Fishing Boat.dll

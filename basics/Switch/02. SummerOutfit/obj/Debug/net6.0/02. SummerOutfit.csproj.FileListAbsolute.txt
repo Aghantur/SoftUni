@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\02. SummerOutfit\bin\Debug\net6.0\02. SummerOutfit.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\02. SummerOutfit\bin\Debug\net6.0\02. SummerOutfit.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\02. SummerOutfit\bin\Debug\net6.0\02. SummerOutfit.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\02. SummerOutfit\bin\Debug\net6.0\02. SummerOutfit.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\02. SummerOutfit\bin\Debug\net6.0\02. SummerOutfit.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\02. SummerOutfit\obj\Debug\net6.0\02. SummerOutfit.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\02. SummerOutfit\obj\Debug\net6.0\02. SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\02. SummerOutfit\obj\Debug\net6.0\02. SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\02. SummerOutfit\obj\Debug\net6.0\02. SummerOutfit.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\02. SummerOutfit\obj\Debug\net6.0\02. SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\02. SummerOutfit\obj\Debug\net6.0\02. SummerOutfit.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\02. SummerOutfit\obj\Debug\net6.0\refint\02. SummerOutfit.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\02. SummerOutfit\obj\Debug\net6.0\02. SummerOutfit.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\02. SummerOutfit\obj\Debug\net6.0\02. SummerOutfit.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\Switch\02. SummerOutfit\obj\Debug\net6.0\ref\02. SummerOutfit.dll
