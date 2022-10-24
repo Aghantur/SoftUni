@@ -11,7 +11,7 @@
 
             double price = 0;
 
-
+            
             switch (town)
             {
                 case "Sofia":

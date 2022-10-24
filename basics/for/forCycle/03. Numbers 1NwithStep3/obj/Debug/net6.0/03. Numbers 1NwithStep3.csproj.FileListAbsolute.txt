@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\for\forCycle\03. Numbers 1NwithStep3\bin\Debug\net6.0\03. Numbers 1NwithStep3.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\for\forCycle\03. Numbers 1NwithStep3\bin\Debug\net6.0\03. Numbers 1NwithStep3.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\for\forCycle\03. Numbers 1NwithStep3\bin\Debug\net6.0\03. Numbers 1NwithStep3.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\for\forCycle\03. Numbers 1NwithStep3\bin\Debug\net6.0\03. Numbers 1NwithStep3.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\for\forCycle\03. Numbers 1NwithStep3\bin\Debug\net6.0\03. Numbers 1NwithStep3.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\for\forCycle\03. Numbers 1NwithStep3\obj\Debug\net6.0\03. Numbers 1NwithStep3.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\for\forCycle\03. Numbers 1NwithStep3\obj\Debug\net6.0\03. Numbers 1NwithStep3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\for\forCycle\03. Numbers 1NwithStep3\obj\Debug\net6.0\03. Numbers 1NwithStep3.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\for\forCycle\03. Numbers 1NwithStep3\obj\Debug\net6.0\03. Numbers 1NwithStep3.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\for\forCycle\03. Numbers 1NwithStep3\obj\Debug\net6.0\03. Numbers 1NwithStep3.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\for\forCycle\03. Numbers 1NwithStep3\obj\Debug\net6.0\03. Numbers 1NwithStep3.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\for\forCycle\03. Numbers 1NwithStep3\obj\Debug\net6.0\refint\03. Numbers 1NwithStep3.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\for\forCycle\03. Numbers 1NwithStep3\obj\Debug\net6.0\03. Numbers 1NwithStep3.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\for\forCycle\03. Numbers 1NwithStep3\obj\Debug\net6.0\03. Numbers 1NwithStep3.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\for\forCycle\03. Numbers 1NwithStep3\obj\Debug\net6.0\ref\03. Numbers 1NwithStep3.dll
