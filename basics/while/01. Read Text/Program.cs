@@ -1,0 +1,20 @@
+﻿namespace _01._Read_Text
+{
+
+    using System;
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string input = Console.ReadLine();
+
+            while (input != "Stop")
+            {
+                Console.WriteLine(input); 
+                input = Console.ReadLine();
+            }
+
+
+        }
+    }
+}

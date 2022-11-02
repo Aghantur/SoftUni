@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\while\01. Read Text\bin\Debug\net6.0\01. Read Text.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\while\01. Read Text\bin\Debug\net6.0\01. Read Text.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\while\01. Read Text\bin\Debug\net6.0\01. Read Text.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\while\01. Read Text\bin\Debug\net6.0\01. Read Text.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\while\01. Read Text\bin\Debug\net6.0\01. Read Text.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\while\01. Read Text\obj\Debug\net6.0\01. Read Text.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\while\01. Read Text\obj\Debug\net6.0\01. Read Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\while\01. Read Text\obj\Debug\net6.0\01. Read Text.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\while\01. Read Text\obj\Debug\net6.0\01. Read Text.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\while\01. Read Text\obj\Debug\net6.0\01. Read Text.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\while\01. Read Text\obj\Debug\net6.0\01. Read Text.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\while\01. Read Text\obj\Debug\net6.0\refint\01. Read Text.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\while\01. Read Text\obj\Debug\net6.0\01. Read Text.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\while\01. Read Text\obj\Debug\net6.0\01. Read Text.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\while\01. Read Text\obj\Debug\net6.0\ref\01. Read Text.dll
