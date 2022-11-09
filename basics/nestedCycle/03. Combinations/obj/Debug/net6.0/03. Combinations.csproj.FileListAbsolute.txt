@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\03. Combinations\bin\Debug\net6.0\03. Combinations.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\03. Combinations\bin\Debug\net6.0\03. Combinations.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\03. Combinations\bin\Debug\net6.0\03. Combinations.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\03. Combinations\bin\Debug\net6.0\03. Combinations.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\03. Combinations\bin\Debug\net6.0\03. Combinations.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\03. Combinations\obj\Debug\net6.0\03. Combinations.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\03. Combinations\obj\Debug\net6.0\03. Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\03. Combinations\obj\Debug\net6.0\03. Combinations.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\03. Combinations\obj\Debug\net6.0\03. Combinations.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\03. Combinations\obj\Debug\net6.0\03. Combinations.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\03. Combinations\obj\Debug\net6.0\03. Combinations.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\03. Combinations\obj\Debug\net6.0\refint\03. Combinations.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\03. Combinations\obj\Debug\net6.0\03. Combinations.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\03. Combinations\obj\Debug\net6.0\03. Combinations.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\03. Combinations\obj\Debug\net6.0\ref\03. Combinations.dll

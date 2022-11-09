@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\04. Sum of Two Numbers\bin\Debug\net6.0\04. Sum of Two Numbers.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\04. Sum of Two Numbers\bin\Debug\net6.0\04. Sum of Two Numbers.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\04. Sum of Two Numbers\bin\Debug\net6.0\04. Sum of Two Numbers.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\04. Sum of Two Numbers\bin\Debug\net6.0\04. Sum of Two Numbers.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\04. Sum of Two Numbers\bin\Debug\net6.0\04. Sum of Two Numbers.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\04. Sum of Two Numbers\obj\Debug\net6.0\04. Sum of Two Numbers.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\04. Sum of Two Numbers\obj\Debug\net6.0\04. Sum of Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\04. Sum of Two Numbers\obj\Debug\net6.0\04. Sum of Two Numbers.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\04. Sum of Two Numbers\obj\Debug\net6.0\04. Sum of Two Numbers.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\04. Sum of Two Numbers\obj\Debug\net6.0\04. Sum of Two Numbers.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\04. Sum of Two Numbers\obj\Debug\net6.0\04. Sum of Two Numbers.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\04. Sum of Two Numbers\obj\Debug\net6.0\refint\04. Sum of Two Numbers.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\04. Sum of Two Numbers\obj\Debug\net6.0\04. Sum of Two Numbers.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\04. Sum of Two Numbers\obj\Debug\net6.0\04. Sum of Two Numbers.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\nestedCycle\04. Sum of Two Numbers\obj\Debug\net6.0\ref\04. Sum of Two Numbers.dll
