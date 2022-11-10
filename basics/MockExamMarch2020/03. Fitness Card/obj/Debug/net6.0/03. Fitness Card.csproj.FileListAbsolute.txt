@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\03. Fitness Card\bin\Debug\net6.0\03. Fitness Card.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\03. Fitness Card\bin\Debug\net6.0\03. Fitness Card.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\03. Fitness Card\bin\Debug\net6.0\03. Fitness Card.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\03. Fitness Card\bin\Debug\net6.0\03. Fitness Card.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\03. Fitness Card\bin\Debug\net6.0\03. Fitness Card.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\03. Fitness Card\obj\Debug\net6.0\03. Fitness Card.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\03. Fitness Card\obj\Debug\net6.0\03. Fitness Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\03. Fitness Card\obj\Debug\net6.0\03. Fitness Card.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\03. Fitness Card\obj\Debug\net6.0\03. Fitness Card.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\03. Fitness Card\obj\Debug\net6.0\03. Fitness Card.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\03. Fitness Card\obj\Debug\net6.0\03. Fitness Card.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\03. Fitness Card\obj\Debug\net6.0\refint\03. Fitness Card.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\03. Fitness Card\obj\Debug\net6.0\03. Fitness Card.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\03. Fitness Card\obj\Debug\net6.0\03. Fitness Card.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\03. Fitness Card\obj\Debug\net6.0\ref\03. Fitness Card.dll

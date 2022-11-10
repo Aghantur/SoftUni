@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Cat Walking\bin\Debug\net6.0\02. Cat Walking.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Cat Walking\bin\Debug\net6.0\02. Cat Walking.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Cat Walking\bin\Debug\net6.0\02. Cat Walking.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Cat Walking\bin\Debug\net6.0\02. Cat Walking.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Cat Walking\bin\Debug\net6.0\02. Cat Walking.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Cat Walking\obj\Debug\net6.0\02. Cat Walking.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Cat Walking\obj\Debug\net6.0\02. Cat Walking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Cat Walking\obj\Debug\net6.0\02. Cat Walking.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Cat Walking\obj\Debug\net6.0\02. Cat Walking.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Cat Walking\obj\Debug\net6.0\02. Cat Walking.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Cat Walking\obj\Debug\net6.0\02. Cat Walking.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Cat Walking\obj\Debug\net6.0\refint\02. Cat Walking.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Cat Walking\obj\Debug\net6.0\02. Cat Walking.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Cat Walking\obj\Debug\net6.0\02. Cat Walking.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Cat Walking\obj\Debug\net6.0\ref\02. Cat Walking.dll

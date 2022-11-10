@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Mountain Run\bin\Debug\net6.0\02. Mountain Run.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Mountain Run\bin\Debug\net6.0\02. Mountain Run.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Mountain Run\bin\Debug\net6.0\02. Mountain Run.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Mountain Run\bin\Debug\net6.0\02. Mountain Run.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Mountain Run\bin\Debug\net6.0\02. Mountain Run.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Mountain Run\obj\Debug\net6.0\02. Mountain Run.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Mountain Run\obj\Debug\net6.0\02. Mountain Run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Mountain Run\obj\Debug\net6.0\02. Mountain Run.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Mountain Run\obj\Debug\net6.0\02. Mountain Run.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Mountain Run\obj\Debug\net6.0\02. Mountain Run.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Mountain Run\obj\Debug\net6.0\02. Mountain Run.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Mountain Run\obj\Debug\net6.0\refint\02. Mountain Run.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Mountain Run\obj\Debug\net6.0\02. Mountain Run.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Mountain Run\obj\Debug\net6.0\02. Mountain Run.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\02. Mountain Run\obj\Debug\net6.0\ref\02. Mountain Run.dll

@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Change Bureau\bin\Debug\net6.0\01. Change Bureau.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Change Bureau\bin\Debug\net6.0\01. Change Bureau.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Change Bureau\bin\Debug\net6.0\01. Change Bureau.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Change Bureau\bin\Debug\net6.0\01. Change Bureau.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Change Bureau\bin\Debug\net6.0\01. Change Bureau.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Change Bureau\obj\Debug\net6.0\01. Change Bureau.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Change Bureau\obj\Debug\net6.0\01. Change Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Change Bureau\obj\Debug\net6.0\01. Change Bureau.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Change Bureau\obj\Debug\net6.0\01. Change Bureau.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Change Bureau\obj\Debug\net6.0\01. Change Bureau.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Change Bureau\obj\Debug\net6.0\01. Change Bureau.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Change Bureau\obj\Debug\net6.0\refint\01. Change Bureau.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Change Bureau\obj\Debug\net6.0\01. Change Bureau.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Change Bureau\obj\Debug\net6.0\01. Change Bureau.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Change Bureau\obj\Debug\net6.0\ref\01. Change Bureau.dll

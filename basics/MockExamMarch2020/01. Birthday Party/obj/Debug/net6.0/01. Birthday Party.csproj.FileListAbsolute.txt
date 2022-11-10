@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Birthday Party\bin\Debug\net6.0\01. Birthday Party.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Birthday Party\bin\Debug\net6.0\01. Birthday Party.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Birthday Party\bin\Debug\net6.0\01. Birthday Party.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Birthday Party\bin\Debug\net6.0\01. Birthday Party.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Birthday Party\bin\Debug\net6.0\01. Birthday Party.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Birthday Party\obj\Debug\net6.0\01. Birthday Party.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Birthday Party\obj\Debug\net6.0\01. Birthday Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Birthday Party\obj\Debug\net6.0\01. Birthday Party.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Birthday Party\obj\Debug\net6.0\01. Birthday Party.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Birthday Party\obj\Debug\net6.0\01. Birthday Party.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Birthday Party\obj\Debug\net6.0\01. Birthday Party.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Birthday Party\obj\Debug\net6.0\refint\01. Birthday Party.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Birthday Party\obj\Debug\net6.0\01. Birthday Party.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Birthday Party\obj\Debug\net6.0\01. Birthday Party.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\01. Birthday Party\obj\Debug\net6.0\ref\01. Birthday Party.dll

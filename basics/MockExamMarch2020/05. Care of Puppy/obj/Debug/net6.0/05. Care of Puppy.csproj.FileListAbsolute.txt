@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Care of Puppy\bin\Debug\net6.0\05. Care of Puppy.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Care of Puppy\bin\Debug\net6.0\05. Care of Puppy.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Care of Puppy\bin\Debug\net6.0\05. Care of Puppy.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Care of Puppy\bin\Debug\net6.0\05. Care of Puppy.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Care of Puppy\bin\Debug\net6.0\05. Care of Puppy.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Care of Puppy\obj\Debug\net6.0\05. Care of Puppy.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Care of Puppy\obj\Debug\net6.0\05. Care of Puppy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Care of Puppy\obj\Debug\net6.0\05. Care of Puppy.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Care of Puppy\obj\Debug\net6.0\05. Care of Puppy.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Care of Puppy\obj\Debug\net6.0\05. Care of Puppy.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Care of Puppy\obj\Debug\net6.0\05. Care of Puppy.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Care of Puppy\obj\Debug\net6.0\refint\05. Care of Puppy.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Care of Puppy\obj\Debug\net6.0\05. Care of Puppy.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Care of Puppy\obj\Debug\net6.0\05. Care of Puppy.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Care of Puppy\obj\Debug\net6.0\ref\05. Care of Puppy.dll

@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Suitcases Load\bin\Debug\net6.0\05. Suitcases Load.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Suitcases Load\bin\Debug\net6.0\05. Suitcases Load.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Suitcases Load\bin\Debug\net6.0\05. Suitcases Load.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Suitcases Load\bin\Debug\net6.0\05. Suitcases Load.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Suitcases Load\bin\Debug\net6.0\05. Suitcases Load.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Suitcases Load\obj\Debug\net6.0\05. Suitcases Load.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Suitcases Load\obj\Debug\net6.0\05. Suitcases Load.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Suitcases Load\obj\Debug\net6.0\05. Suitcases Load.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Suitcases Load\obj\Debug\net6.0\05. Suitcases Load.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Suitcases Load\obj\Debug\net6.0\05. Suitcases Load.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Suitcases Load\obj\Debug\net6.0\05. Suitcases Load.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Suitcases Load\obj\Debug\net6.0\refint\05. Suitcases Load.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Suitcases Load\obj\Debug\net6.0\05. Suitcases Load.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Suitcases Load\obj\Debug\net6.0\05. Suitcases Load.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExamMarch2020\05. Suitcases Load\obj\Debug\net6.0\ref\05. Suitcases Load.dll
