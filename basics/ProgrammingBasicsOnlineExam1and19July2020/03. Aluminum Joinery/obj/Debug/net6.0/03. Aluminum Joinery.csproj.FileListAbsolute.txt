@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\03. Aluminum Joinery\bin\Debug\net6.0\03. Aluminum Joinery.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\03. Aluminum Joinery\bin\Debug\net6.0\03. Aluminum Joinery.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\03. Aluminum Joinery\bin\Debug\net6.0\03. Aluminum Joinery.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\03. Aluminum Joinery\bin\Debug\net6.0\03. Aluminum Joinery.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\03. Aluminum Joinery\bin\Debug\net6.0\03. Aluminum Joinery.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\03. Aluminum Joinery\obj\Debug\net6.0\03. Aluminum Joinery.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\03. Aluminum Joinery\obj\Debug\net6.0\03. Aluminum Joinery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\03. Aluminum Joinery\obj\Debug\net6.0\03. Aluminum Joinery.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\03. Aluminum Joinery\obj\Debug\net6.0\03. Aluminum Joinery.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\03. Aluminum Joinery\obj\Debug\net6.0\03. Aluminum Joinery.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\03. Aluminum Joinery\obj\Debug\net6.0\03. Aluminum Joinery.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\03. Aluminum Joinery\obj\Debug\net6.0\refint\03. Aluminum Joinery.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\03. Aluminum Joinery\obj\Debug\net6.0\03. Aluminum Joinery.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\03. Aluminum Joinery\obj\Debug\net6.0\03. Aluminum Joinery.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\03. Aluminum Joinery\obj\Debug\net6.0\ref\03. Aluminum Joinery.dll

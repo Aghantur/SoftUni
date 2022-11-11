@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\01. Agency Profit\bin\Debug\net6.0\01. Agency Profit.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\01. Agency Profit\bin\Debug\net6.0\01. Agency Profit.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\01. Agency Profit\bin\Debug\net6.0\01. Agency Profit.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\01. Agency Profit\bin\Debug\net6.0\01. Agency Profit.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\01. Agency Profit\bin\Debug\net6.0\01. Agency Profit.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\01. Agency Profit\obj\Debug\net6.0\01. Agency Profit.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\01. Agency Profit\obj\Debug\net6.0\01. Agency Profit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\01. Agency Profit\obj\Debug\net6.0\01. Agency Profit.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\01. Agency Profit\obj\Debug\net6.0\01. Agency Profit.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\01. Agency Profit\obj\Debug\net6.0\01. Agency Profit.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\01. Agency Profit\obj\Debug\net6.0\01. Agency Profit.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\01. Agency Profit\obj\Debug\net6.0\refint\01. Agency Profit.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\01. Agency Profit\obj\Debug\net6.0\01. Agency Profit.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\01. Agency Profit\obj\Debug\net6.0\01. Agency Profit.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\ProgrammingBasicsOnlineExam1and19July2020\01. Agency Profit\obj\Debug\net6.0\ref\01. Agency Profit.dll
