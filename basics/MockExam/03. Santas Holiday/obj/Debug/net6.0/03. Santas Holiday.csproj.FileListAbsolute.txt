@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\03. Santas Holiday\bin\Debug\net6.0\03. Santas Holiday.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\03. Santas Holiday\bin\Debug\net6.0\03. Santas Holiday.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\03. Santas Holiday\bin\Debug\net6.0\03. Santas Holiday.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\03. Santas Holiday\bin\Debug\net6.0\03. Santas Holiday.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\03. Santas Holiday\bin\Debug\net6.0\03. Santas Holiday.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\03. Santas Holiday\obj\Debug\net6.0\03. Santas Holiday.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\03. Santas Holiday\obj\Debug\net6.0\03. Santas Holiday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\03. Santas Holiday\obj\Debug\net6.0\03. Santas Holiday.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\03. Santas Holiday\obj\Debug\net6.0\03. Santas Holiday.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\03. Santas Holiday\obj\Debug\net6.0\03. Santas Holiday.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\03. Santas Holiday\obj\Debug\net6.0\03. Santas Holiday.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\03. Santas Holiday\obj\Debug\net6.0\refint\03. Santas Holiday.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\03. Santas Holiday\obj\Debug\net6.0\03. Santas Holiday.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\03. Santas Holiday\obj\Debug\net6.0\03. Santas Holiday.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\03. Santas Holiday\obj\Debug\net6.0\ref\03. Santas Holiday.dll

@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\01. Christmas Preparation\bin\Debug\net6.0\01. Christmas Preparation.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\01. Christmas Preparation\bin\Debug\net6.0\01. Christmas Preparation.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\01. Christmas Preparation\bin\Debug\net6.0\01. Christmas Preparation.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\01. Christmas Preparation\bin\Debug\net6.0\01. Christmas Preparation.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\01. Christmas Preparation\bin\Debug\net6.0\01. Christmas Preparation.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\01. Christmas Preparation\obj\Debug\net6.0\01. Christmas Preparation.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\01. Christmas Preparation\obj\Debug\net6.0\01. Christmas Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\01. Christmas Preparation\obj\Debug\net6.0\01. Christmas Preparation.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\01. Christmas Preparation\obj\Debug\net6.0\01. Christmas Preparation.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\01. Christmas Preparation\obj\Debug\net6.0\01. Christmas Preparation.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\01. Christmas Preparation\obj\Debug\net6.0\01. Christmas Preparation.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\01. Christmas Preparation\obj\Debug\net6.0\refint\01. Christmas Preparation.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\01. Christmas Preparation\obj\Debug\net6.0\01. Christmas Preparation.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\01. Christmas Preparation\obj\Debug\net6.0\01. Christmas Preparation.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\01. Christmas Preparation\obj\Debug\net6.0\ref\01. Christmas Preparation.dll

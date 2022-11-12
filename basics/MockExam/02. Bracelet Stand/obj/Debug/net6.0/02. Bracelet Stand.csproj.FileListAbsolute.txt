@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\02. Bracelet Stand\bin\Debug\net6.0\02. Bracelet Stand.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\02. Bracelet Stand\bin\Debug\net6.0\02. Bracelet Stand.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\02. Bracelet Stand\bin\Debug\net6.0\02. Bracelet Stand.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\02. Bracelet Stand\bin\Debug\net6.0\02. Bracelet Stand.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\02. Bracelet Stand\bin\Debug\net6.0\02. Bracelet Stand.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\02. Bracelet Stand\obj\Debug\net6.0\02. Bracelet Stand.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\02. Bracelet Stand\obj\Debug\net6.0\02. Bracelet Stand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\02. Bracelet Stand\obj\Debug\net6.0\02. Bracelet Stand.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\02. Bracelet Stand\obj\Debug\net6.0\02. Bracelet Stand.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\02. Bracelet Stand\obj\Debug\net6.0\02. Bracelet Stand.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\02. Bracelet Stand\obj\Debug\net6.0\02. Bracelet Stand.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\02. Bracelet Stand\obj\Debug\net6.0\refint\02. Bracelet Stand.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\02. Bracelet Stand\obj\Debug\net6.0\02. Bracelet Stand.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\02. Bracelet Stand\obj\Debug\net6.0\02. Bracelet Stand.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\02. Bracelet Stand\obj\Debug\net6.0\ref\02. Bracelet Stand.dll

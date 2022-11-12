@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\05. Hair Salon\bin\Debug\net6.0\05. Hair Salon.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\05. Hair Salon\bin\Debug\net6.0\05. Hair Salon.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\05. Hair Salon\bin\Debug\net6.0\05. Hair Salon.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\05. Hair Salon\bin\Debug\net6.0\05. Hair Salon.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\05. Hair Salon\bin\Debug\net6.0\05. Hair Salon.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\05. Hair Salon\obj\Debug\net6.0\refint\05. Hair Salon.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\05. Hair Salon\obj\Debug\net6.0\05. Hair Salon.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\basics\MockExam\05. Hair Salon\obj\Debug\net6.0\ref\05. Hair Salon.dll
