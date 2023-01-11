@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Basic syntax\12. Even Number\bin\Debug\net6.0\12. Even Number.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Basic syntax\12. Even Number\bin\Debug\net6.0\12. Even Number.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Basic syntax\12. Even Number\bin\Debug\net6.0\12. Even Number.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Basic syntax\12. Even Number\bin\Debug\net6.0\12. Even Number.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Basic syntax\12. Even Number\bin\Debug\net6.0\12. Even Number.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Basic syntax\12. Even Number\obj\Debug\net6.0\12. Even Number.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Basic syntax\12. Even Number\obj\Debug\net6.0\12. Even Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Basic syntax\12. Even Number\obj\Debug\net6.0\12. Even Number.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Basic syntax\12. Even Number\obj\Debug\net6.0\12. Even Number.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Basic syntax\12. Even Number\obj\Debug\net6.0\12. Even Number.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Basic syntax\12. Even Number\obj\Debug\net6.0\12. Even Number.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Basic syntax\12. Even Number\obj\Debug\net6.0\refint\12. Even Number.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Basic syntax\12. Even Number\obj\Debug\net6.0\12. Even Number.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Basic syntax\12. Even Number\obj\Debug\net6.0\12. Even Number.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Basic syntax\12. Even Number\obj\Debug\net6.0\ref\12. Even Number.dll
