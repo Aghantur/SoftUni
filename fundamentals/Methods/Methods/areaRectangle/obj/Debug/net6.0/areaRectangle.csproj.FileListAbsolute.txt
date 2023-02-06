@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\areaRectangle\bin\Debug\net6.0\areaRectangle.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\areaRectangle\bin\Debug\net6.0\areaRectangle.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\areaRectangle\bin\Debug\net6.0\areaRectangle.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\areaRectangle\bin\Debug\net6.0\areaRectangle.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\areaRectangle\bin\Debug\net6.0\areaRectangle.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\areaRectangle\obj\Debug\net6.0\areaRectangle.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\areaRectangle\obj\Debug\net6.0\areaRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\areaRectangle\obj\Debug\net6.0\areaRectangle.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\areaRectangle\obj\Debug\net6.0\areaRectangle.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\areaRectangle\obj\Debug\net6.0\areaRectangle.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\areaRectangle\obj\Debug\net6.0\areaRectangle.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\areaRectangle\obj\Debug\net6.0\refint\areaRectangle.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\areaRectangle\obj\Debug\net6.0\areaRectangle.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\areaRectangle\obj\Debug\net6.0\areaRectangle.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\areaRectangle\obj\Debug\net6.0\ref\areaRectangle.dll

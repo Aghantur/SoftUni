@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\7. NxN Matrix\bin\Debug\net6.0\7. NxN Matrix.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\7. NxN Matrix\bin\Debug\net6.0\7. NxN Matrix.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\7. NxN Matrix\bin\Debug\net6.0\7. NxN Matrix.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\7. NxN Matrix\bin\Debug\net6.0\7. NxN Matrix.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\7. NxN Matrix\bin\Debug\net6.0\7. NxN Matrix.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\7. NxN Matrix\obj\Debug\net6.0\7. NxN Matrix.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\7. NxN Matrix\obj\Debug\net6.0\7. NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\7. NxN Matrix\obj\Debug\net6.0\7. NxN Matrix.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\7. NxN Matrix\obj\Debug\net6.0\7. NxN Matrix.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\7. NxN Matrix\obj\Debug\net6.0\7. NxN Matrix.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\7. NxN Matrix\obj\Debug\net6.0\7. NxN Matrix.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\7. NxN Matrix\obj\Debug\net6.0\refint\7. NxN Matrix.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\7. NxN Matrix\obj\Debug\net6.0\7. NxN Matrix.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\7. NxN Matrix\obj\Debug\net6.0\7. NxN Matrix.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\7. NxN Matrix\obj\Debug\net6.0\ref\7. NxN Matrix.dll

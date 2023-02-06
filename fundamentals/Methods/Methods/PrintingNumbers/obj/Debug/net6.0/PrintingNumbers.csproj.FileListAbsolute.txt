@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\PrintingNumbers\bin\Debug\net6.0\PrintingNumbers.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\PrintingNumbers\bin\Debug\net6.0\PrintingNumbers.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\PrintingNumbers\bin\Debug\net6.0\PrintingNumbers.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\PrintingNumbers\bin\Debug\net6.0\PrintingNumbers.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\PrintingNumbers\bin\Debug\net6.0\PrintingNumbers.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\PrintingNumbers\obj\Debug\net6.0\refint\PrintingNumbers.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\PrintingNumbers\obj\Debug\net6.0\ref\PrintingNumbers.dll

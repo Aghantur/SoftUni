@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\EvenSum\bin\Debug\net6.0\EvenSum.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\EvenSum\bin\Debug\net6.0\EvenSum.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\EvenSum\bin\Debug\net6.0\EvenSum.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\EvenSum\bin\Debug\net6.0\EvenSum.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\EvenSum\bin\Debug\net6.0\EvenSum.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\EvenSum\obj\Debug\net6.0\EvenSum.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\EvenSum\obj\Debug\net6.0\EvenSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\EvenSum\obj\Debug\net6.0\EvenSum.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\EvenSum\obj\Debug\net6.0\EvenSum.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\EvenSum\obj\Debug\net6.0\EvenSum.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\EvenSum\obj\Debug\net6.0\EvenSum.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\EvenSum\obj\Debug\net6.0\refint\EvenSum.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\EvenSum\obj\Debug\net6.0\EvenSum.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\EvenSum\obj\Debug\net6.0\EvenSum.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Methods\Methods\EvenSum\obj\Debug\net6.0\ref\EvenSum.dll
