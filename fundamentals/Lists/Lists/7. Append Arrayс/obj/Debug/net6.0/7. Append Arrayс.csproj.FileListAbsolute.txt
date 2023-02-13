@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\7. Append Arrayс\bin\Debug\net6.0\7. Append Arrayс.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\7. Append Arrayс\bin\Debug\net6.0\7. Append Arrayс.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\7. Append Arrayс\bin\Debug\net6.0\7. Append Arrayс.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\7. Append Arrayс\bin\Debug\net6.0\7. Append Arrayс.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\7. Append Arrayс\bin\Debug\net6.0\7. Append Arrayс.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\7. Append Arrayс\obj\Debug\net6.0\7. Append Arrayс.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\7. Append Arrayс\obj\Debug\net6.0\7. Append Arrayс.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\7. Append Arrayс\obj\Debug\net6.0\7. Append Arrayс.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\7. Append Arrayс\obj\Debug\net6.0\7. Append Arrayс.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\7. Append Arrayс\obj\Debug\net6.0\7. Append Arrayс.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\7. Append Arrayс\obj\Debug\net6.0\7. Append Arrayс.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\7. Append Arrayс\obj\Debug\net6.0\refint\7. Append Arrayс.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\7. Append Arrayс\obj\Debug\net6.0\7. Append Arrayс.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\7. Append Arrayс\obj\Debug\net6.0\7. Append Arrayс.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\7. Append Arrayс\obj\Debug\net6.0\ref\7. Append Arrayс.dll

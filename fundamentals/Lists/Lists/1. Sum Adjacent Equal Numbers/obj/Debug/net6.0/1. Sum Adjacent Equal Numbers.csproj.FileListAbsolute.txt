@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\1. Sum Adjacent Equal Numbers\bin\Debug\net6.0\1. Sum Adjacent Equal Numbers.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\1. Sum Adjacent Equal Numbers\bin\Debug\net6.0\1. Sum Adjacent Equal Numbers.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\1. Sum Adjacent Equal Numbers\bin\Debug\net6.0\1. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\1. Sum Adjacent Equal Numbers\bin\Debug\net6.0\1. Sum Adjacent Equal Numbers.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\1. Sum Adjacent Equal Numbers\bin\Debug\net6.0\1. Sum Adjacent Equal Numbers.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\1. Sum Adjacent Equal Numbers\obj\Debug\net6.0\1. Sum Adjacent Equal Numbers.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\1. Sum Adjacent Equal Numbers\obj\Debug\net6.0\1. Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\1. Sum Adjacent Equal Numbers\obj\Debug\net6.0\1. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\1. Sum Adjacent Equal Numbers\obj\Debug\net6.0\1. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\1. Sum Adjacent Equal Numbers\obj\Debug\net6.0\1. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\1. Sum Adjacent Equal Numbers\obj\Debug\net6.0\1. Sum Adjacent Equal Numbers.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\1. Sum Adjacent Equal Numbers\obj\Debug\net6.0\refint\1. Sum Adjacent Equal Numbers.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\1. Sum Adjacent Equal Numbers\obj\Debug\net6.0\1. Sum Adjacent Equal Numbers.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\1. Sum Adjacent Equal Numbers\obj\Debug\net6.0\1. Sum Adjacent Equal Numbers.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\1. Sum Adjacent Equal Numbers\obj\Debug\net6.0\ref\1. Sum Adjacent Equal Numbers.dll

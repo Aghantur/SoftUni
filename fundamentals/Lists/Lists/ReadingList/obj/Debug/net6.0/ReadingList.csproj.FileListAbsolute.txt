@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\ReadingList\bin\Debug\net6.0\ReadingList.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\ReadingList\bin\Debug\net6.0\ReadingList.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\ReadingList\bin\Debug\net6.0\ReadingList.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\ReadingList\bin\Debug\net6.0\ReadingList.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\ReadingList\bin\Debug\net6.0\ReadingList.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\ReadingList\obj\Debug\net6.0\ReadingList.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\ReadingList\obj\Debug\net6.0\ReadingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\ReadingList\obj\Debug\net6.0\ReadingList.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\ReadingList\obj\Debug\net6.0\ReadingList.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\ReadingList\obj\Debug\net6.0\ReadingList.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\ReadingList\obj\Debug\net6.0\ReadingList.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\ReadingList\obj\Debug\net6.0\refint\ReadingList.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\ReadingList\obj\Debug\net6.0\ReadingList.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\ReadingList\obj\Debug\net6.0\ReadingList.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\ReadingList\obj\Debug\net6.0\ref\ReadingList.dll

@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\06. CardGame\bin\Debug\net6.0\06. CardGame.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\06. CardGame\bin\Debug\net6.0\06. CardGame.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\06. CardGame\bin\Debug\net6.0\06. CardGame.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\06. CardGame\bin\Debug\net6.0\06. CardGame.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\06. CardGame\bin\Debug\net6.0\06. CardGame.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\06. CardGame\obj\Debug\net6.0\06. CardGame.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\06. CardGame\obj\Debug\net6.0\06. CardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\06. CardGame\obj\Debug\net6.0\06. CardGame.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\06. CardGame\obj\Debug\net6.0\06. CardGame.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\06. CardGame\obj\Debug\net6.0\06. CardGame.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\06. CardGame\obj\Debug\net6.0\06. CardGame.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\06. CardGame\obj\Debug\net6.0\refint\06. CardGame.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\06. CardGame\obj\Debug\net6.0\06. CardGame.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\06. CardGame\obj\Debug\net6.0\06. CardGame.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\06. CardGame\obj\Debug\net6.0\ref\06. CardGame.dll

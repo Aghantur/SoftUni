@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\5. Bomb Numbers\bin\Debug\net6.0\5. Bomb Numbers.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\5. Bomb Numbers\bin\Debug\net6.0\5. Bomb Numbers.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\5. Bomb Numbers\bin\Debug\net6.0\5. Bomb Numbers.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\5. Bomb Numbers\bin\Debug\net6.0\5. Bomb Numbers.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\5. Bomb Numbers\bin\Debug\net6.0\5. Bomb Numbers.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\5. Bomb Numbers\obj\Debug\net6.0\5. Bomb Numbers.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\5. Bomb Numbers\obj\Debug\net6.0\5. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\5. Bomb Numbers\obj\Debug\net6.0\5. Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\5. Bomb Numbers\obj\Debug\net6.0\5. Bomb Numbers.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\5. Bomb Numbers\obj\Debug\net6.0\5. Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\5. Bomb Numbers\obj\Debug\net6.0\5. Bomb Numbers.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\5. Bomb Numbers\obj\Debug\net6.0\refint\5. Bomb Numbers.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\5. Bomb Numbers\obj\Debug\net6.0\5. Bomb Numbers.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\5. Bomb Numbers\obj\Debug\net6.0\5. Bomb Numbers.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Lists\Lists\5. Bomb Numbers\obj\Debug\net6.0\ref\5. Bomb Numbers.dll
