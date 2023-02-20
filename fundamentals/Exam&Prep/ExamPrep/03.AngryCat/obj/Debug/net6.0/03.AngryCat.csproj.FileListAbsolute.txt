@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\03.AngryCat\bin\Debug\net6.0\03.AngryCat.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\03.AngryCat\bin\Debug\net6.0\03.AngryCat.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\03.AngryCat\bin\Debug\net6.0\03.AngryCat.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\03.AngryCat\bin\Debug\net6.0\03.AngryCat.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\03.AngryCat\bin\Debug\net6.0\03.AngryCat.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\03.AngryCat\obj\Debug\net6.0\03.AngryCat.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\03.AngryCat\obj\Debug\net6.0\03.AngryCat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\03.AngryCat\obj\Debug\net6.0\03.AngryCat.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\03.AngryCat\obj\Debug\net6.0\03.AngryCat.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\03.AngryCat\obj\Debug\net6.0\03.AngryCat.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\03.AngryCat\obj\Debug\net6.0\03.AngryCat.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\03.AngryCat\obj\Debug\net6.0\refint\03.AngryCat.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\03.AngryCat\obj\Debug\net6.0\03.AngryCat.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\03.AngryCat\obj\Debug\net6.0\03.AngryCat.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\03.AngryCat\obj\Debug\net6.0\ref\03.AngryCat.dll

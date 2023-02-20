@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.FriendList\bin\Debug\net6.0\02.FriendList.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.FriendList\bin\Debug\net6.0\02.FriendList.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.FriendList\bin\Debug\net6.0\02.FriendList.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.FriendList\bin\Debug\net6.0\02.FriendList.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.FriendList\bin\Debug\net6.0\02.FriendList.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.FriendList\obj\Debug\net6.0\02.FriendList.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.FriendList\obj\Debug\net6.0\02.FriendList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.FriendList\obj\Debug\net6.0\02.FriendList.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.FriendList\obj\Debug\net6.0\02.FriendList.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.FriendList\obj\Debug\net6.0\02.FriendList.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.FriendList\obj\Debug\net6.0\02.FriendList.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.FriendList\obj\Debug\net6.0\refint\02.FriendList.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.FriendList\obj\Debug\net6.0\02.FriendList.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.FriendList\obj\Debug\net6.0\02.FriendList.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.FriendList\obj\Debug\net6.0\ref\02.FriendList.dll

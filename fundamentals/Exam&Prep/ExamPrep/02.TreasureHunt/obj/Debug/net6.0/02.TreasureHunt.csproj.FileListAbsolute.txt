@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.TreasureHunt\bin\Debug\net6.0\02.TreasureHunt.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.TreasureHunt\bin\Debug\net6.0\02.TreasureHunt.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.TreasureHunt\bin\Debug\net6.0\02.TreasureHunt.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.TreasureHunt\bin\Debug\net6.0\02.TreasureHunt.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.TreasureHunt\bin\Debug\net6.0\02.TreasureHunt.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.TreasureHunt\obj\Debug\net6.0\02.TreasureHunt.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.TreasureHunt\obj\Debug\net6.0\02.TreasureHunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.TreasureHunt\obj\Debug\net6.0\02.TreasureHunt.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.TreasureHunt\obj\Debug\net6.0\02.TreasureHunt.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.TreasureHunt\obj\Debug\net6.0\02.TreasureHunt.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.TreasureHunt\obj\Debug\net6.0\02.TreasureHunt.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.TreasureHunt\obj\Debug\net6.0\refint\02.TreasureHunt.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.TreasureHunt\obj\Debug\net6.0\02.TreasureHunt.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.TreasureHunt\obj\Debug\net6.0\02.TreasureHunt.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Exam&Prep\ExamPrep\02.TreasureHunt\obj\Debug\net6.0\ref\02.TreasureHunt.dll
