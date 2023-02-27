@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Classes\Objects\06.Vehicles\bin\Debug\net6.0\06.Vehicles.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Classes\Objects\06.Vehicles\bin\Debug\net6.0\06.Vehicles.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Classes\Objects\06.Vehicles\bin\Debug\net6.0\06.Vehicles.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Classes\Objects\06.Vehicles\bin\Debug\net6.0\06.Vehicles.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Classes\Objects\06.Vehicles\bin\Debug\net6.0\06.Vehicles.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Classes\Objects\06.Vehicles\obj\Debug\net6.0\06.Vehicles.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Classes\Objects\06.Vehicles\obj\Debug\net6.0\06.Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Classes\Objects\06.Vehicles\obj\Debug\net6.0\06.Vehicles.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Classes\Objects\06.Vehicles\obj\Debug\net6.0\06.Vehicles.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Classes\Objects\06.Vehicles\obj\Debug\net6.0\06.Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Classes\Objects\06.Vehicles\obj\Debug\net6.0\06.Vehicles.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Classes\Objects\06.Vehicles\obj\Debug\net6.0\refint\06.Vehicles.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Classes\Objects\06.Vehicles\obj\Debug\net6.0\06.Vehicles.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Classes\Objects\06.Vehicles\obj\Debug\net6.0\06.Vehicles.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Classes\Objects\06.Vehicles\obj\Debug\net6.0\ref\06.Vehicles.dll
