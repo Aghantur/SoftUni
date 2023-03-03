@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\5.Courses\bin\Debug\net6.0\5.Courses.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\5.Courses\bin\Debug\net6.0\5.Courses.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\5.Courses\bin\Debug\net6.0\5.Courses.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\5.Courses\bin\Debug\net6.0\5.Courses.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\5.Courses\bin\Debug\net6.0\5.Courses.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\5.Courses\obj\Debug\net6.0\5.Courses.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\5.Courses\obj\Debug\net6.0\5.Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\5.Courses\obj\Debug\net6.0\5.Courses.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\5.Courses\obj\Debug\net6.0\5.Courses.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\5.Courses\obj\Debug\net6.0\5.Courses.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\5.Courses\obj\Debug\net6.0\5.Courses.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\5.Courses\obj\Debug\net6.0\refint\5.Courses.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\5.Courses\obj\Debug\net6.0\5.Courses.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\5.Courses\obj\Debug\net6.0\5.Courses.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\5.Courses\obj\Debug\net6.0\ref\5.Courses.dll

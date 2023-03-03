@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\1.CountChars\bin\Debug\net6.0\1.CountChars.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\1.CountChars\bin\Debug\net6.0\1.CountChars.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\1.CountChars\bin\Debug\net6.0\1.CountChars.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\1.CountChars\bin\Debug\net6.0\1.CountChars.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\1.CountChars\bin\Debug\net6.0\1.CountChars.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\1.CountChars\obj\Debug\net6.0\1.CountChars.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\1.CountChars\obj\Debug\net6.0\1.CountChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\1.CountChars\obj\Debug\net6.0\1.CountChars.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\1.CountChars\obj\Debug\net6.0\1.CountChars.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\1.CountChars\obj\Debug\net6.0\1.CountChars.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\1.CountChars\obj\Debug\net6.0\1.CountChars.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\1.CountChars\obj\Debug\net6.0\refint\1.CountChars.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\1.CountChars\obj\Debug\net6.0\1.CountChars.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\1.CountChars\obj\Debug\net6.0\1.CountChars.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\1.CountChars\obj\Debug\net6.0\ref\1.CountChars.dll

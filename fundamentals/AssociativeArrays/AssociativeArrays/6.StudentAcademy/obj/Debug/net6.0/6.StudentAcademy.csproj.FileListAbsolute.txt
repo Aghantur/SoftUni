@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\6.StudentAcademy\bin\Debug\net6.0\6.StudentAcademy.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\6.StudentAcademy\bin\Debug\net6.0\6.StudentAcademy.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\6.StudentAcademy\bin\Debug\net6.0\6.StudentAcademy.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\6.StudentAcademy\bin\Debug\net6.0\6.StudentAcademy.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\6.StudentAcademy\bin\Debug\net6.0\6.StudentAcademy.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\6.StudentAcademy\obj\Debug\net6.0\6.StudentAcademy.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\6.StudentAcademy\obj\Debug\net6.0\6.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\6.StudentAcademy\obj\Debug\net6.0\6.StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\6.StudentAcademy\obj\Debug\net6.0\6.StudentAcademy.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\6.StudentAcademy\obj\Debug\net6.0\6.StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\6.StudentAcademy\obj\Debug\net6.0\6.StudentAcademy.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\6.StudentAcademy\obj\Debug\net6.0\refint\6.StudentAcademy.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\6.StudentAcademy\obj\Debug\net6.0\6.StudentAcademy.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\6.StudentAcademy\obj\Debug\net6.0\6.StudentAcademy.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\AssociativeArrays\AssociativeArrays\6.StudentAcademy\obj\Debug\net6.0\ref\6.StudentAcademy.dll
