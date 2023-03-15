@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\TextProcessing\Exercises\5.Digits,Letters\bin\Debug\net6.0\5.Digits,Letters.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\TextProcessing\Exercises\5.Digits,Letters\bin\Debug\net6.0\5.Digits,Letters.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\TextProcessing\Exercises\5.Digits,Letters\bin\Debug\net6.0\5.Digits,Letters.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\TextProcessing\Exercises\5.Digits,Letters\bin\Debug\net6.0\5.Digits,Letters.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\TextProcessing\Exercises\5.Digits,Letters\bin\Debug\net6.0\5.Digits,Letters.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\TextProcessing\Exercises\5.Digits,Letters\obj\Debug\net6.0\5.Digits,Letters.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\TextProcessing\Exercises\5.Digits,Letters\obj\Debug\net6.0\5.Digits,Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\TextProcessing\Exercises\5.Digits,Letters\obj\Debug\net6.0\5.Digits,Letters.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\TextProcessing\Exercises\5.Digits,Letters\obj\Debug\net6.0\5.Digits,Letters.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\TextProcessing\Exercises\5.Digits,Letters\obj\Debug\net6.0\5.Digits,Letters.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\TextProcessing\Exercises\5.Digits,Letters\obj\Debug\net6.0\5.Digits,Letters.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\TextProcessing\Exercises\5.Digits,Letters\obj\Debug\net6.0\refint\5.Digits,Letters.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\TextProcessing\Exercises\5.Digits,Letters\obj\Debug\net6.0\5.Digits,Letters.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\TextProcessing\Exercises\5.Digits,Letters\obj\Debug\net6.0\5.Digits,Letters.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\TextProcessing\Exercises\5.Digits,Letters\obj\Debug\net6.0\ref\5.Digits,Letters.dll
