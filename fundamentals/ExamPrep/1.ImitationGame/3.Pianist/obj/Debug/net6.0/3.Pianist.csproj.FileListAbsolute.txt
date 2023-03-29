@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pianist\bin\Debug\net6.0\3.Pianist.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pianist\bin\Debug\net6.0\3.Pianist.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pianist\bin\Debug\net6.0\3.Pianist.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pianist\bin\Debug\net6.0\3.Pianist.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pianist\bin\Debug\net6.0\3.Pianist.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pianist\obj\Debug\net6.0\3.Pianist.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pianist\obj\Debug\net6.0\3.Pianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pianist\obj\Debug\net6.0\3.Pianist.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pianist\obj\Debug\net6.0\3.Pianist.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pianist\obj\Debug\net6.0\3.Pianist.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pianist\obj\Debug\net6.0\3.Pianist.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pianist\obj\Debug\net6.0\refint\3.Pianist.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pianist\obj\Debug\net6.0\3.Pianist.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pianist\obj\Debug\net6.0\3.Pianist.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pianist\obj\Debug\net6.0\ref\3.Pianist.dll

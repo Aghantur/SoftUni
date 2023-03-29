@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Regex\Regex\3.SoftUniBarcode\bin\Debug\net6.0\3.SoftUniBarcode.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Regex\Regex\3.SoftUniBarcode\bin\Debug\net6.0\3.SoftUniBarcode.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Regex\Regex\3.SoftUniBarcode\bin\Debug\net6.0\3.SoftUniBarcode.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Regex\Regex\3.SoftUniBarcode\bin\Debug\net6.0\3.SoftUniBarcode.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Regex\Regex\3.SoftUniBarcode\bin\Debug\net6.0\3.SoftUniBarcode.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Regex\Regex\3.SoftUniBarcode\obj\Debug\net6.0\3.SoftUniBarcode.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Regex\Regex\3.SoftUniBarcode\obj\Debug\net6.0\3.SoftUniBarcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Regex\Regex\3.SoftUniBarcode\obj\Debug\net6.0\3.SoftUniBarcode.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Regex\Regex\3.SoftUniBarcode\obj\Debug\net6.0\3.SoftUniBarcode.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Regex\Regex\3.SoftUniBarcode\obj\Debug\net6.0\3.SoftUniBarcode.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Regex\Regex\3.SoftUniBarcode\obj\Debug\net6.0\3.SoftUniBarcode.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Regex\Regex\3.SoftUniBarcode\obj\Debug\net6.0\refint\3.SoftUniBarcode.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Regex\Regex\3.SoftUniBarcode\obj\Debug\net6.0\3.SoftUniBarcode.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Regex\Regex\3.SoftUniBarcode\obj\Debug\net6.0\3.SoftUniBarcode.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\Regex\Regex\3.SoftUniBarcode\obj\Debug\net6.0\ref\3.SoftUniBarcode.dll
