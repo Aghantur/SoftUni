@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pirates\bin\Debug\net6.0\3.Pirates.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pirates\bin\Debug\net6.0\3.Pirates.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pirates\bin\Debug\net6.0\3.Pirates.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pirates\bin\Debug\net6.0\3.Pirates.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pirates\bin\Debug\net6.0\3.Pirates.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pirates\obj\Debug\net6.0\3.Pirates.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pirates\obj\Debug\net6.0\3.Pirates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pirates\obj\Debug\net6.0\3.Pirates.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pirates\obj\Debug\net6.0\3.Pirates.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pirates\obj\Debug\net6.0\3.Pirates.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pirates\obj\Debug\net6.0\3.Pirates.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pirates\obj\Debug\net6.0\refint\3.Pirates.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pirates\obj\Debug\net6.0\3.Pirates.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pirates\obj\Debug\net6.0\3.Pirates.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.Pirates\obj\Debug\net6.0\ref\3.Pirates.dll

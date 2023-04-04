@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1Exam\bin\Debug\net6.0\1Exam.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1Exam\bin\Debug\net6.0\1Exam.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1Exam\bin\Debug\net6.0\1Exam.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1Exam\bin\Debug\net6.0\1Exam.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1Exam\bin\Debug\net6.0\1Exam.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1Exam\obj\Debug\net6.0\1Exam.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1Exam\obj\Debug\net6.0\1Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1Exam\obj\Debug\net6.0\1Exam.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1Exam\obj\Debug\net6.0\1Exam.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1Exam\obj\Debug\net6.0\1Exam.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1Exam\obj\Debug\net6.0\1Exam.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1Exam\obj\Debug\net6.0\refint\1Exam.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1Exam\obj\Debug\net6.0\1Exam.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1Exam\obj\Debug\net6.0\1Exam.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1Exam\obj\Debug\net6.0\ref\1Exam.dll

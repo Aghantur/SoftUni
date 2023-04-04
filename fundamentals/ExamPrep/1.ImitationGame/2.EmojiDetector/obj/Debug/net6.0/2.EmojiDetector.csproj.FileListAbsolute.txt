@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\2.EmojiDetector\bin\Debug\net6.0\2.EmojiDetector.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\2.EmojiDetector\bin\Debug\net6.0\2.EmojiDetector.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\2.EmojiDetector\bin\Debug\net6.0\2.EmojiDetector.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\2.EmojiDetector\bin\Debug\net6.0\2.EmojiDetector.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\2.EmojiDetector\bin\Debug\net6.0\2.EmojiDetector.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\2.EmojiDetector\obj\Debug\net6.0\2.EmojiDetector.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\2.EmojiDetector\obj\Debug\net6.0\2.EmojiDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\2.EmojiDetector\obj\Debug\net6.0\2.EmojiDetector.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\2.EmojiDetector\obj\Debug\net6.0\2.EmojiDetector.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\2.EmojiDetector\obj\Debug\net6.0\2.EmojiDetector.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\2.EmojiDetector\obj\Debug\net6.0\2.EmojiDetector.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\2.EmojiDetector\obj\Debug\net6.0\refint\2.EmojiDetector.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\2.EmojiDetector\obj\Debug\net6.0\2.EmojiDetector.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\2.EmojiDetector\obj\Debug\net6.0\2.EmojiDetector.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\2.EmojiDetector\obj\Debug\net6.0\ref\2.EmojiDetector.dll

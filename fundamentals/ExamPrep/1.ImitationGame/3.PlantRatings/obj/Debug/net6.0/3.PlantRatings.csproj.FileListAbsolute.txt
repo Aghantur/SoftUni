@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.PlantRatings\bin\Debug\net6.0\3.PlantRatings.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.PlantRatings\bin\Debug\net6.0\3.PlantRatings.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.PlantRatings\bin\Debug\net6.0\3.PlantRatings.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.PlantRatings\bin\Debug\net6.0\3.PlantRatings.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.PlantRatings\bin\Debug\net6.0\3.PlantRatings.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.PlantRatings\obj\Debug\net6.0\3.PlantRatings.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.PlantRatings\obj\Debug\net6.0\3.PlantRatings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.PlantRatings\obj\Debug\net6.0\3.PlantRatings.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.PlantRatings\obj\Debug\net6.0\3.PlantRatings.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.PlantRatings\obj\Debug\net6.0\3.PlantRatings.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.PlantRatings\obj\Debug\net6.0\3.PlantRatings.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.PlantRatings\obj\Debug\net6.0\refint\3.PlantRatings.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.PlantRatings\obj\Debug\net6.0\3.PlantRatings.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.PlantRatings\obj\Debug\net6.0\3.PlantRatings.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\3.PlantRatings\obj\Debug\net6.0\ref\3.PlantRatings.dll

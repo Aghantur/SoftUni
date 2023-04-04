@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1.ActivationKeys\bin\Debug\net6.0\1.ActivationKeys.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1.ActivationKeys\bin\Debug\net6.0\1.ActivationKeys.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1.ActivationKeys\bin\Debug\net6.0\1.ActivationKeys.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1.ActivationKeys\bin\Debug\net6.0\1.ActivationKeys.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1.ActivationKeys\bin\Debug\net6.0\1.ActivationKeys.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1.ActivationKeys\obj\Debug\net6.0\1.ActivationKeys.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1.ActivationKeys\obj\Debug\net6.0\1.ActivationKeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1.ActivationKeys\obj\Debug\net6.0\1.ActivationKeys.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1.ActivationKeys\obj\Debug\net6.0\1.ActivationKeys.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1.ActivationKeys\obj\Debug\net6.0\1.ActivationKeys.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1.ActivationKeys\obj\Debug\net6.0\1.ActivationKeys.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1.ActivationKeys\obj\Debug\net6.0\refint\1.ActivationKeys.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1.ActivationKeys\obj\Debug\net6.0\1.ActivationKeys.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1.ActivationKeys\obj\Debug\net6.0\1.ActivationKeys.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\fundamentals\ExamPrep\1.ImitationGame\1.ActivationKeys\obj\Debug\net6.0\ref\1.ActivationKeys.dll
