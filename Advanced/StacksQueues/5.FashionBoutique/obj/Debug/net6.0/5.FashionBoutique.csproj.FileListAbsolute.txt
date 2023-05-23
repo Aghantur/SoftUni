@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\StacksQueues\5.FashionBoutique\bin\Debug\net6.0\5.FashionBoutique.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\StacksQueues\5.FashionBoutique\bin\Debug\net6.0\5.FashionBoutique.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\StacksQueues\5.FashionBoutique\bin\Debug\net6.0\5.FashionBoutique.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\StacksQueues\5.FashionBoutique\bin\Debug\net6.0\5.FashionBoutique.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\StacksQueues\5.FashionBoutique\bin\Debug\net6.0\5.FashionBoutique.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\StacksQueues\5.FashionBoutique\obj\Debug\net6.0\5.FashionBoutique.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\StacksQueues\5.FashionBoutique\obj\Debug\net6.0\5.FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\StacksQueues\5.FashionBoutique\obj\Debug\net6.0\5.FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\StacksQueues\5.FashionBoutique\obj\Debug\net6.0\5.FashionBoutique.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\StacksQueues\5.FashionBoutique\obj\Debug\net6.0\5.FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\StacksQueues\5.FashionBoutique\obj\Debug\net6.0\5.FashionBoutique.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\StacksQueues\5.FashionBoutique\obj\Debug\net6.0\refint\5.FashionBoutique.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\StacksQueues\5.FashionBoutique\obj\Debug\net6.0\5.FashionBoutique.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\StacksQueues\5.FashionBoutique\obj\Debug\net6.0\5.FashionBoutique.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\StacksQueues\5.FashionBoutique\obj\Debug\net6.0\ref\5.FashionBoutique.dll
