@@ -1,1 +1,0 @@
-﻿int[,,] matrix = new int[3, 3, 3];
