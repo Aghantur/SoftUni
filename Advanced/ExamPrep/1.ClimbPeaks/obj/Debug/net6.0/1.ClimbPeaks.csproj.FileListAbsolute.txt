@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.ClimbPeaks\bin\Debug\net6.0\1.ClimbPeaks.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.ClimbPeaks\bin\Debug\net6.0\1.ClimbPeaks.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.ClimbPeaks\bin\Debug\net6.0\1.ClimbPeaks.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.ClimbPeaks\bin\Debug\net6.0\1.ClimbPeaks.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.ClimbPeaks\bin\Debug\net6.0\1.ClimbPeaks.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.ClimbPeaks\obj\Debug\net6.0\1.ClimbPeaks.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.ClimbPeaks\obj\Debug\net6.0\1.ClimbPeaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.ClimbPeaks\obj\Debug\net6.0\1.ClimbPeaks.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.ClimbPeaks\obj\Debug\net6.0\1.ClimbPeaks.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.ClimbPeaks\obj\Debug\net6.0\1.ClimbPeaks.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.ClimbPeaks\obj\Debug\net6.0\1.ClimbPeaks.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.ClimbPeaks\obj\Debug\net6.0\refint\1.ClimbPeaks.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.ClimbPeaks\obj\Debug\net6.0\1.ClimbPeaks.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.ClimbPeaks\obj\Debug\net6.0\1.ClimbPeaks.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.ClimbPeaks\obj\Debug\net6.0\ref\1.ClimbPeaks.dll

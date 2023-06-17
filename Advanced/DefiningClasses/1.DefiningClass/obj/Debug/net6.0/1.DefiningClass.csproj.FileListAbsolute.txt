@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\DefiningClasses\1.DefiningClass\bin\Debug\net6.0\1.DefiningClass.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\DefiningClasses\1.DefiningClass\bin\Debug\net6.0\1.DefiningClass.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\DefiningClasses\1.DefiningClass\bin\Debug\net6.0\1.DefiningClass.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\DefiningClasses\1.DefiningClass\bin\Debug\net6.0\1.DefiningClass.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\DefiningClasses\1.DefiningClass\bin\Debug\net6.0\1.DefiningClass.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\DefiningClasses\1.DefiningClass\obj\Debug\net6.0\1.DefiningClass.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\DefiningClasses\1.DefiningClass\obj\Debug\net6.0\1.DefiningClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\DefiningClasses\1.DefiningClass\obj\Debug\net6.0\1.DefiningClass.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\DefiningClasses\1.DefiningClass\obj\Debug\net6.0\1.DefiningClass.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\DefiningClasses\1.DefiningClass\obj\Debug\net6.0\1.DefiningClass.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\DefiningClasses\1.DefiningClass\obj\Debug\net6.0\1.DefiningClass.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\DefiningClasses\1.DefiningClass\obj\Debug\net6.0\refint\1.DefiningClass.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\DefiningClasses\1.DefiningClass\obj\Debug\net6.0\1.DefiningClass.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\DefiningClasses\1.DefiningClass\obj\Debug\net6.0\1.DefiningClass.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\DefiningClasses\1.DefiningClass\obj\Debug\net6.0\ref\1.DefiningClass.dll

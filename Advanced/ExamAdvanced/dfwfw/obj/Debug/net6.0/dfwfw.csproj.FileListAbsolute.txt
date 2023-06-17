@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\dfwfw\bin\Debug\net6.0\dfwfw.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\dfwfw\bin\Debug\net6.0\dfwfw.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\dfwfw\bin\Debug\net6.0\dfwfw.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\dfwfw\bin\Debug\net6.0\dfwfw.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\dfwfw\bin\Debug\net6.0\dfwfw.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\dfwfw\obj\Debug\net6.0\dfwfw.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\dfwfw\obj\Debug\net6.0\dfwfw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\dfwfw\obj\Debug\net6.0\dfwfw.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\dfwfw\obj\Debug\net6.0\dfwfw.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\dfwfw\obj\Debug\net6.0\dfwfw.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\dfwfw\obj\Debug\net6.0\dfwfw.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\dfwfw\obj\Debug\net6.0\refint\dfwfw.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\dfwfw\obj\Debug\net6.0\dfwfw.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\dfwfw\obj\Debug\net6.0\dfwfw.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\dfwfw\obj\Debug\net6.0\ref\dfwfw.dll

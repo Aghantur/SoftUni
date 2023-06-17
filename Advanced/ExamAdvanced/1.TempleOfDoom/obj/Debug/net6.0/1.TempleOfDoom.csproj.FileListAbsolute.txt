@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\1.TempleOfDoom\bin\Debug\net6.0\1.TempleOfDoom.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\1.TempleOfDoom\bin\Debug\net6.0\1.TempleOfDoom.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\1.TempleOfDoom\bin\Debug\net6.0\1.TempleOfDoom.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\1.TempleOfDoom\bin\Debug\net6.0\1.TempleOfDoom.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\1.TempleOfDoom\bin\Debug\net6.0\1.TempleOfDoom.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\1.TempleOfDoom\obj\Debug\net6.0\1.TempleOfDoom.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\1.TempleOfDoom\obj\Debug\net6.0\1.TempleOfDoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\1.TempleOfDoom\obj\Debug\net6.0\1.TempleOfDoom.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\1.TempleOfDoom\obj\Debug\net6.0\1.TempleOfDoom.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\1.TempleOfDoom\obj\Debug\net6.0\1.TempleOfDoom.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\1.TempleOfDoom\obj\Debug\net6.0\1.TempleOfDoom.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\1.TempleOfDoom\obj\Debug\net6.0\refint\1.TempleOfDoom.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\1.TempleOfDoom\obj\Debug\net6.0\1.TempleOfDoom.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\1.TempleOfDoom\obj\Debug\net6.0\1.TempleOfDoom.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\1.TempleOfDoom\obj\Debug\net6.0\ref\1.TempleOfDoom.dll

@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\2.NavyBattle\bin\Debug\net6.0\2.NavyBattle.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\2.NavyBattle\bin\Debug\net6.0\2.NavyBattle.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\2.NavyBattle\bin\Debug\net6.0\2.NavyBattle.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\2.NavyBattle\bin\Debug\net6.0\2.NavyBattle.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\2.NavyBattle\bin\Debug\net6.0\2.NavyBattle.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\2.NavyBattle\obj\Debug\net6.0\2.NavyBattle.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\2.NavyBattle\obj\Debug\net6.0\2.NavyBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\2.NavyBattle\obj\Debug\net6.0\2.NavyBattle.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\2.NavyBattle\obj\Debug\net6.0\2.NavyBattle.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\2.NavyBattle\obj\Debug\net6.0\2.NavyBattle.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\2.NavyBattle\obj\Debug\net6.0\2.NavyBattle.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\2.NavyBattle\obj\Debug\net6.0\refint\2.NavyBattle.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\2.NavyBattle\obj\Debug\net6.0\2.NavyBattle.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\2.NavyBattle\obj\Debug\net6.0\2.NavyBattle.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\2.NavyBattle\obj\Debug\net6.0\ref\2.NavyBattle.dll

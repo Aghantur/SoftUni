@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.TilesMaster\bin\Debug\net6.0\1.TilesMaster.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.TilesMaster\bin\Debug\net6.0\1.TilesMaster.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.TilesMaster\bin\Debug\net6.0\1.TilesMaster.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.TilesMaster\bin\Debug\net6.0\1.TilesMaster.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.TilesMaster\bin\Debug\net6.0\1.TilesMaster.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.TilesMaster\obj\Debug\net6.0\1.TilesMaster.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.TilesMaster\obj\Debug\net6.0\1.TilesMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.TilesMaster\obj\Debug\net6.0\1.TilesMaster.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.TilesMaster\obj\Debug\net6.0\1.TilesMaster.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.TilesMaster\obj\Debug\net6.0\1.TilesMaster.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.TilesMaster\obj\Debug\net6.0\1.TilesMaster.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.TilesMaster\obj\Debug\net6.0\refint\1.TilesMaster.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.TilesMaster\obj\Debug\net6.0\1.TilesMaster.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.TilesMaster\obj\Debug\net6.0\1.TilesMaster.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.TilesMaster\obj\Debug\net6.0\ref\1.TilesMaster.dll

@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\IteratorsComparatos\06. EqualityLogic\bin\Debug\net6.0\06. EqualityLogic.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\IteratorsComparatos\06. EqualityLogic\bin\Debug\net6.0\06. EqualityLogic.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\IteratorsComparatos\06. EqualityLogic\bin\Debug\net6.0\06. EqualityLogic.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\IteratorsComparatos\06. EqualityLogic\bin\Debug\net6.0\06. EqualityLogic.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\IteratorsComparatos\06. EqualityLogic\bin\Debug\net6.0\06. EqualityLogic.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\IteratorsComparatos\06. EqualityLogic\obj\Debug\net6.0\06. EqualityLogic.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\IteratorsComparatos\06. EqualityLogic\obj\Debug\net6.0\06. EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\IteratorsComparatos\06. EqualityLogic\obj\Debug\net6.0\06. EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\IteratorsComparatos\06. EqualityLogic\obj\Debug\net6.0\06. EqualityLogic.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\IteratorsComparatos\06. EqualityLogic\obj\Debug\net6.0\06. EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\IteratorsComparatos\06. EqualityLogic\obj\Debug\net6.0\06. EqualityLogic.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\IteratorsComparatos\06. EqualityLogic\obj\Debug\net6.0\refint\06. EqualityLogic.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\IteratorsComparatos\06. EqualityLogic\obj\Debug\net6.0\06. EqualityLogic.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\IteratorsComparatos\06. EqualityLogic\obj\Debug\net6.0\06. EqualityLogic.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\IteratorsComparatos\06. EqualityLogic\obj\Debug\net6.0\ref\06. EqualityLogic.dll

@@ -1,0 +1,16 @@
+C:\Users\vikto\Downloads\03. Renovators_Skeleton\bin\Debug\net5.0\Renovators.exe
+C:\Users\vikto\Downloads\03. Renovators_Skeleton\bin\Debug\net5.0\Renovators.deps.json
+C:\Users\vikto\Downloads\03. Renovators_Skeleton\bin\Debug\net5.0\Renovators.runtimeconfig.json
+C:\Users\vikto\Downloads\03. Renovators_Skeleton\bin\Debug\net5.0\Renovators.runtimeconfig.dev.json
+C:\Users\vikto\Downloads\03. Renovators_Skeleton\bin\Debug\net5.0\Renovators.dll
+C:\Users\vikto\Downloads\03. Renovators_Skeleton\bin\Debug\net5.0\Renovators.pdb
+C:\Users\vikto\Downloads\03. Renovators_Skeleton\obj\Debug\net5.0\Renovators.csproj.AssemblyReference.cache
+C:\Users\vikto\Downloads\03. Renovators_Skeleton\obj\Debug\net5.0\Renovators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\Downloads\03. Renovators_Skeleton\obj\Debug\net5.0\Renovators.AssemblyInfoInputs.cache
+C:\Users\vikto\Downloads\03. Renovators_Skeleton\obj\Debug\net5.0\Renovators.AssemblyInfo.cs
+C:\Users\vikto\Downloads\03. Renovators_Skeleton\obj\Debug\net5.0\Renovators.csproj.CoreCompileInputs.cache
+C:\Users\vikto\Downloads\03. Renovators_Skeleton\obj\Debug\net5.0\Renovators.dll
+C:\Users\vikto\Downloads\03. Renovators_Skeleton\obj\Debug\net5.0\refint\Renovators.dll
+C:\Users\vikto\Downloads\03. Renovators_Skeleton\obj\Debug\net5.0\Renovators.pdb
+C:\Users\vikto\Downloads\03. Renovators_Skeleton\obj\Debug\net5.0\Renovators.genruntimeconfig.cache
+C:\Users\vikto\Downloads\03. Renovators_Skeleton\obj\Debug\net5.0\ref\Renovators.dll

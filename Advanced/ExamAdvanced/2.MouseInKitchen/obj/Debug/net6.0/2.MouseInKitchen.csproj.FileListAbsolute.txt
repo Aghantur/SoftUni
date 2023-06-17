@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\2.MouseInKitchen\bin\Debug\net6.0\2.MouseInKitchen.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\2.MouseInKitchen\bin\Debug\net6.0\2.MouseInKitchen.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\2.MouseInKitchen\bin\Debug\net6.0\2.MouseInKitchen.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\2.MouseInKitchen\bin\Debug\net6.0\2.MouseInKitchen.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\2.MouseInKitchen\bin\Debug\net6.0\2.MouseInKitchen.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\2.MouseInKitchen\obj\Debug\net6.0\2.MouseInKitchen.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\2.MouseInKitchen\obj\Debug\net6.0\2.MouseInKitchen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\2.MouseInKitchen\obj\Debug\net6.0\2.MouseInKitchen.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\2.MouseInKitchen\obj\Debug\net6.0\2.MouseInKitchen.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\2.MouseInKitchen\obj\Debug\net6.0\2.MouseInKitchen.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\2.MouseInKitchen\obj\Debug\net6.0\2.MouseInKitchen.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\2.MouseInKitchen\obj\Debug\net6.0\refint\2.MouseInKitchen.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\2.MouseInKitchen\obj\Debug\net6.0\2.MouseInKitchen.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\2.MouseInKitchen\obj\Debug\net6.0\2.MouseInKitchen.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamAdvanced\2.MouseInKitchen\obj\Debug\net6.0\ref\2.MouseInKitchen.dll

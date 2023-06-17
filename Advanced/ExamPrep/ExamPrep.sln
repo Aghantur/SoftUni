@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.RubberDuck", "1.RubberDuck\1.RubberDuck.csproj", "{D5A682D4-FB69-4251-998C-A126780F4D93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.TheSquirrel", "2.TheSquirrel\2.TheSquirrel.csproj", "{DDC25C4A-B7B6-404E-BC05-1C58BBB75AD9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.ApocalypsePreparion", "1.ApocalypsePreparion\1.ApocalypsePreparion.csproj", "{23E6B548-A837-4259-8B9C-D2334C0893FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.BlindManBuff", "2.BlindManBuff\2.BlindManBuff.csproj", "{CB0901F4-66DB-4B66-87A7-7364B6DCF81A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.TilesMaster", "1.TilesMaster\1.TilesMaster.csproj", "{8E5675BE-1BE4-4013-887E-8ADBC4502E3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tilemaster core", "tilemaster core\tilemaster core.csproj", "{81E216F3-8D13-4D3A-99D5-1E3051887AA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5A682D4-FB69-4251-998C-A126780F4D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A682D4-FB69-4251-998C-A126780F4D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A682D4-FB69-4251-998C-A126780F4D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A682D4-FB69-4251-998C-A126780F4D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC25C4A-B7B6-404E-BC05-1C58BBB75AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC25C4A-B7B6-404E-BC05-1C58BBB75AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC25C4A-B7B6-404E-BC05-1C58BBB75AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC25C4A-B7B6-404E-BC05-1C58BBB75AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E6B548-A837-4259-8B9C-D2334C0893FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E6B548-A837-4259-8B9C-D2334C0893FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E6B548-A837-4259-8B9C-D2334C0893FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E6B548-A837-4259-8B9C-D2334C0893FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB0901F4-66DB-4B66-87A7-7364B6DCF81A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB0901F4-66DB-4B66-87A7-7364B6DCF81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB0901F4-66DB-4B66-87A7-7364B6DCF81A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB0901F4-66DB-4B66-87A7-7364B6DCF81A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E5675BE-1BE4-4013-887E-8ADBC4502E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5675BE-1BE4-4013-887E-8ADBC4502E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5675BE-1BE4-4013-887E-8ADBC4502E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5675BE-1BE4-4013-887E-8ADBC4502E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E216F3-8D13-4D3A-99D5-1E3051887AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E216F3-8D13-4D3A-99D5-1E3051887AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E216F3-8D13-4D3A-99D5-1E3051887AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E216F3-8D13-4D3A-99D5-1E3051887AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70A6A962-3881-4593-8C70-90E187B17F87}
+	EndGlobalSection
+EndGlobal

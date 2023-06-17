@@ -1,0 +1,15 @@
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.RubberDuck\bin\Debug\net6.0\1.RubberDuck.exe
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.RubberDuck\bin\Debug\net6.0\1.RubberDuck.deps.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.RubberDuck\bin\Debug\net6.0\1.RubberDuck.runtimeconfig.json
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.RubberDuck\bin\Debug\net6.0\1.RubberDuck.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.RubberDuck\bin\Debug\net6.0\1.RubberDuck.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.RubberDuck\obj\Debug\net6.0\1.RubberDuck.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.RubberDuck\obj\Debug\net6.0\1.RubberDuck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.RubberDuck\obj\Debug\net6.0\1.RubberDuck.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.RubberDuck\obj\Debug\net6.0\1.RubberDuck.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.RubberDuck\obj\Debug\net6.0\1.RubberDuck.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.RubberDuck\obj\Debug\net6.0\1.RubberDuck.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.RubberDuck\obj\Debug\net6.0\refint\1.RubberDuck.dll
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.RubberDuck\obj\Debug\net6.0\1.RubberDuck.pdb
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.RubberDuck\obj\Debug\net6.0\1.RubberDuck.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Documents\GitHub\SoftUni\Advanced\ExamPrep\1.RubberDuck\obj\Debug\net6.0\ref\1.RubberDuck.dll
