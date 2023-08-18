@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8tWKmvkYTkjP5YqXGNuaPTuzMFQakUXMPfXU+EcTmEs87xD8VVHK9L7klxiwlUy/HSGKxZJRUdf0SqJYrCr86g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viktor Mateev\\Downloads\\02. Business Logic_Author_Solution\\ChristmasPastryShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viktor Mateev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Viktor Mateev\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Viktor Mateev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Viktor Mateev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

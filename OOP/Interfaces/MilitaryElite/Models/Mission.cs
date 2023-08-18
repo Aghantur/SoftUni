@@ -1,4 +1,4 @@
-﻿using MilitaryElite.Enum;
+﻿using MilitaryElite.Enums;
 using MilitaryElite.Models.Interfaces;
 using System;
 using System.Collections.Generic;

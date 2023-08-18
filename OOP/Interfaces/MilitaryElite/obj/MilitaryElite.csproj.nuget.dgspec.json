@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\OOP\\Interfaces\\MilitaryElite\\MilitaryElite.csproj": {}
+    "C:\\Users\\Viktor Mateev\\OneDrive\\Documents\\GitHub\\SoftUni\\OOP\\Interfaces\\MilitaryElite\\MilitaryElite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\OOP\\Interfaces\\MilitaryElite\\MilitaryElite.csproj": {
+    "C:\\Users\\Viktor Mateev\\OneDrive\\Documents\\GitHub\\SoftUni\\OOP\\Interfaces\\MilitaryElite\\MilitaryElite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\OOP\\Interfaces\\MilitaryElite\\MilitaryElite.csproj",
+        "projectUniqueName": "C:\\Users\\Viktor Mateev\\OneDrive\\Documents\\GitHub\\SoftUni\\OOP\\Interfaces\\MilitaryElite\\MilitaryElite.csproj",
         "projectName": "MilitaryElite",
-        "projectPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\OOP\\Interfaces\\MilitaryElite\\MilitaryElite.csproj",
-        "packagesPath": "C:\\Users\\vikto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vikto\\OneDrive\\Documents\\GitHub\\SoftUni\\OOP\\Interfaces\\MilitaryElite\\obj\\",
+        "projectPath": "C:\\Users\\Viktor Mateev\\OneDrive\\Documents\\GitHub\\SoftUni\\OOP\\Interfaces\\MilitaryElite\\MilitaryElite.csproj",
+        "packagesPath": "C:\\Users\\Viktor Mateev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Viktor Mateev\\OneDrive\\Documents\\GitHub\\SoftUni\\OOP\\Interfaces\\MilitaryElite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vikto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Viktor Mateev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

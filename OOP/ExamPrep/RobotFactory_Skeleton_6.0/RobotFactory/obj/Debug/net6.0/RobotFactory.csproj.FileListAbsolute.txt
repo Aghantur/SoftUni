@@ -1,0 +1,15 @@
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\ExamPrep\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.exe
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\ExamPrep\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.deps.json
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\ExamPrep\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.runtimeconfig.json
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\ExamPrep\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.dll
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\ExamPrep\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.pdb
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\ExamPrep\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.AssemblyReference.cache
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\ExamPrep\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\ExamPrep\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfoInputs.cache
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\ExamPrep\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfo.cs
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\ExamPrep\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.CoreCompileInputs.cache
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\ExamPrep\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.dll
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\ExamPrep\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\refint\RobotFactory.dll
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\ExamPrep\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.pdb
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\ExamPrep\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.genruntimeconfig.cache
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\ExamPrep\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\ref\RobotFactory.dll

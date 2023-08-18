@@ -1,0 +1,5 @@
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\Polymorphism\Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.csproj.AssemblyReference.cache
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\Polymorphism\Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\Polymorphism\Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\Polymorphism\Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+C:\Users\Viktor Mateev\OneDrive\Documents\GitHub\SoftUni\OOP\Polymorphism\Polymorphism\Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
